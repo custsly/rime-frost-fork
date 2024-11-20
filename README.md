@@ -1,5 +1,9 @@
 # 白霜拼音
 
+基于[原项目](https://github.com/gaboolic/rime-frost) fork 修改而来, 修改点如下
+
+1. 修改符号模式触发从 `/` 修改为 `v`
+
 原始配置和词库由[雾凇拼音](https://github.com/iDvel/rime-ice)的 [af2480b](https://github.com/iDvel/rime-ice/commit/af2480ba1b147a6a54c0c21e2997ef451c34e036) commit 修改而来。
 
 雾凇词库里的词比较全但也不是非常全，主要的问题是字频和词频不太对，废词有点多，于是重新制作。
