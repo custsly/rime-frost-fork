@@ -62,3 +62,8 @@ gone	gone
 Go程	gocheng
 code	code
 SOHO	soho
+
+「」	yh
+M4K5	mskw	1024
+E14及以上	mskw	1023
+CoreHR	corehr
