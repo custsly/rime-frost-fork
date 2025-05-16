@@ -1,0 +1,3302 @@
+# Rime dictionary
+# encoding: utf-8
+# 来自快手百科词条 https://docs.corp.kuaishou.com/ency/category
+# 词条数量: 3290
+# 排序方式: pinyin
+# last_update_time: 2025-05-15 17:37:27
+
+---
+name: kwai
+version: "2025-05-15"
+sort: default
+---
+0元申样	0 yuan shen yang	0
+0Pass	0Pass	0
+1pp流量	1pp liu liang	0
+1v1	1v1	0
+211	211	0
+2N系统	2N xi tong	0
+3元女子宿舍	3 yuan nv zi su she	0
+3C	3C	0
+45度青年	45 du qing nian	0
+45°青年	45° qing nian	0
+5R模型	5R mo xing	0
+5R人群	5R ren qun	0
+5R人群资产	5R ren qun zi chan	0
+5W2H	5W2H	0
+90-2-5-10	90-2-5-10	0
+A计划	A ji hua	0
+A2A	A2A	0
+A2A协议	A2A xie yi	0
+AAC	AAC	0
+AARRR模型	AARRR mo xing	0
+AB测试	AB ce shi	0
+AB审	AB shen	0
+AB实验	AB shi yan	0
+ABO	ABO	0
+ABR	ABR	0
+ACFUN	ACFUN	0
+ACL	ACL	0
+AEC	AEC	0
+AFK	AFK	0
+AFS（AdSense for Search）	AFS（AdSense for Search）	0
+AGC	AGC	0
+AHT	AHT	0
+AI 程序员	AI  cheng xu yuan	0
+AI First	AI First	0
+AI Infra	AI Infra	0
+AI Platform	AI Platform	0
+AI绘画	AI hui hua	0
+AI玩评	AI wan ping	0
+AI小快	AI xiao kuai	0
+AI修图	AI xiu tu	0
+AI制图	AI zhi tu	0
+AI作画	AI zuo hua	0
+AI作图	AI zuo tu	0
+AID	AID	0
+AIGC	AIGC	0
+AIGC短视频	AIGC duan shi pin	0
+AIOPS	AIOPS	0
+AIPL体系	AIPL ti xi	0
+ALLHANDS	ALLHANDS	0
+AMC	AMC	0
+ANC	ANC	0
+ANN	ANN	0
+ANS	ANS	0
+AP	AP	0
+API服务	API fu wu	0
+API服务平台	API fu wu ping tai	0
+API管理	API guan li	0
+API平台	API ping tai	0
+APP安全评估	APP an quan ping gu	0
+APP分析	APP fen xi	0
+APP漏洞	APP lou dong	0
+ARPPU	ARPPU	0
+ARR	ARR	0
+ASR	ASR	0
+AST	AST	0
+ATT&CK	ATT&CK	0
+AV1	AV1	0
+AVC（H.264）	AVC（H.264）	0
+AVFrame	AVFrame	0
+AVIF	AVIF	0
+AVP	AVP	0
+AVPacket	AVPacket	0
+AVS	AVS	0
+AWDL	AWDL	0
+AZ2.0	AZ2.0	0
+AZ3.0	AZ3.0	0
+AZSwitch	AZSwitch	0
+Abtest	Abtest	0
+Accelerator	Accelerator	0
+Ad load	Ad load	0
+Aegon	Aegon	0
+Aemon	Aemon	0
+Aerospike	Aerospike	0
+After Effects	After Effects	0
+Agent	Agent	0
+Airflow	Airflow	0
+Airstar	Airstar	0
+Alert	Alert	0
+AliveUI	AliveUI	0
+Android插件	Android cha jian	0
+Android漏洞	Android lou dong	0
+AnnexB	AnnexB	0
+Anomaly Detection	Anomaly Detection	0
+Apache HBase	Apache HBase	0
+App ID	App ID	0
+Area under the Curve of ROC	Area under the Curve of ROC	0
+Arya	Arya	0
+Atlas	Atlas	0
+Attribute-Based Access Control	Attribute-Based Access Control	0
+Audioprocesslib	Audioprocesslib	0
+Audit Committee	Audit Committee	0
+AuthToken	AuthToken	0
+AvailableZone	AvailableZone	0
+Average Revenue Per User	Average Revenue Per User	0
+Average Transaction Value	Average Transaction Value	0
+Awareness Interest Purchase Loyalty	Awareness Interest Purchase Loyalty	0
+B帧	B zhen	0
+BA系统	BA xi tong	0
+BCB	BCB	0
+BE	BE	0
+BMC	BMC	0
+BMS系统	BMS xi tong	0
+BO	BO	0
+BOT防护	BOT fang hu	0
+BOT防御	BOT fang yu	0
+BOT检测	BOT jian ce	0
+BP	BP	0
+BP1	BP1	0
+BP2	BP2	0
+BP3	BP3	0
+BP7	BP7	0
+BPO	BPO	0
+BRD	BRD	0
+BRPC	BRPC	0
+BSG	BSG	0
+BTP	BTP	0
+BTQ	BTQ	0
+Bare Metal	Bare Metal	0
+Baseline	Baseline	0
+Basic档位	Basic dang wei	0
+Binlog消费	Binlog xiao fei	0
+BlackBox	BlackBox	0
+Blade服务器	Blade fu wu qi	0
+BlobStore	BlobStore	0
+Bootstrap	Bootstrap	0
+Border Gateway Protocol	Border Gateway Protocol	0
+Bradon	Bradon	0
+C招	C zhao	0
+C++制品库	C++ zhi pin ku	0
+CAC	CAC	0
+CAE	CAE	0
+CAP	CAP	0
+CAP插件	CAP cha jian	0
+CAPE	CAPE	0
+CAS	CAS	0
+CB	CB	0
+CBR	CBR	0
+CC攻击	CC gong ji	0
+CCO	CCO	0
+CDN	CDN	0
+CDN证	CDN zheng	0
+CDP	CDP	0
+CEM	CEM	0
+CFR	CFR	0
+CICD	CICD	0
+CID	CID	0
+CMID	CMID	0
+CMTP	CMTP	0
+CNCF	CNCF	0
+CNN	CNN	0
+CNPJ	CNPJ	0
+COPPA	COPPA	0
+CPE	CPE	0
+CPL	CPL	0
+CPO	CPO	0
+CPT	CPT	0
+CPT广告	CPT guang gao	0
+CPU	CPU	0
+CPU Profiling	CPU Profiling	0
+CPU节流	CPU jie liu	0
+CPU热点分析工具	CPU re dian fen xi gong ju	0
+CQP	CQP	0
+CR4	CR4	0
+CRF	CRF	0
+CRM	CRM	0
+CSR	CSR	0
+CSRF	CSRF	0
+CTR	CTR	0
+CV	CV	0
+CVD	CVD	0
+CVR	CVR	0
+CVR转化率	CVR zhuan hua lv	0
+Cadastro de Pessoa Física	Cadastro de Pessoa Física	0
+Caffe	Caffe	0
+Call Per Day	Call Per Day	0
+Campaign Budget Optimization	Campaign Budget Optimization	0
+Candidate	Candidate	0
+Candidate环境	Candidate huan jing	0
+Capella	Capella	0
+Carbon Copy	Carbon Copy	0
+Cassandra	Cassandra	0
+Ceph	Ceph	0
+Charles	Charles	0
+Chinese New Year	Chinese New Year	0
+Churn Rate	Churn Rate	0
+ClickHouse	ClickHouse	0
+Cloud IDE	Cloud IDE	0
+CloudStorage	CloudStorage	0
+Code Review	Code Review	0
+CodeSearch	CodeSearch	0
+Codec	Codec	0
+Combo实验	Combo shi yan	0
+Conductor	Conductor	0
+ConsumerProxy	ConsumerProxy	0
+Containerd	Containerd	0
+Controlled Experiments by Utilizing Pre-Experiment Data	Controlled Experiments by Utilizing Pre-Experiment Data	0
+Coredump管理平台	Coredump guan li ping tai	0
+Cost Cap	Cost Cap	0
+Cost Per Action	Cost Per Action	0
+Cost Per Mille	Cost Per Mille	0
+Cost per response（每次回应收费）	Cost per response（ mei ci hui ying shou fei ）	0
+Cronet	Cronet	0
+Customer Operation Cost	Customer Operation Cost	0
+Customer journey maps	Customer journey maps	0
+DAC	DAC	0
+DAG	DAG	0
+DASH	DASH	0
+DAU	DAU	0
+DC	DC	0
+DD+	DD+	0
+DDD	DDD	0
+DDL	DDL	0
+DDoS	DDoS	0
+DE	DE	0
+DEVOPS	DEVOPS	0
+DFM	DFM	0
+DID	DID	0
+DMA	DMA	0
+DMAIC	DMAIC	0
+DMAIC模型 / Define, Measure, Analyze, Improve And Control	DMAIC mo xing  / Define, Measure, Analyze, Improve And Control	0
+DMP数据平台	DMP shu ju ping tai	0
+DNS	DNS	0
+DNU	DNU	0
+DPA	DPA	0
+DQC	DQC	0
+DR	DR	0
+DS	DS	0
+DSP	DSP	0
+DSR	DSR	0
+DTS	DTS	0
+DWH	DWH	0
+DWS	DWS	0
+DX	DX	0
+Daenerys	Daenerys	0
+Data Analysis 数据分析	Data Analysis  shu ju fen xi	0
+Data Analyst 数据分析师	Data Analyst  shu ju fen xi shi	0
+Data Map	Data Map	0
+DataHub	DataHub	0
+DataX	DataX	0
+Datadash	Datadash	0
+De-art	De-art	0
+De-blur	De-blur	0
+Decoder	Decoder	0
+Deduplication	Deduplication	0
+DelayServer	DelayServer	0
+Demuxing	Demuxing	0
+Design AI	Design AI	0
+Design Tokens	Design Tokens	0
+DesignAI	DesignAI	0
+DesignNext平台	DesignNext ping tai	0
+DevSecOps	DevSecOps	0
+Docker	Docker	0
+Docs 插件	Docs  cha jian	0
+Docs AI	Docs AI	0
+Docs插件	Docs cha jian	0
+Docs精选	Docs jing xuan	0
+Docs实验室	Docs shi yan shi	0
+Docs协同创意实验室	Docs xie tong chuang yi shi yan shi	0
+Domain	Domain	0
+Druid	Druid	0
+Dry run	Dry run	0
+Dynamic Application Security Testing	Dynamic Application Security Testing	0
+EC-3	EC-3	0
+ECL	ECL	0
+ECTR	ECTR	0
+EDI证	EDI zheng	0
+ERP	ERP	0
+ESG	ESG	0
+ESOP	ESOP	0
+ETL	ETL	0
+EVE	EVE	0
+EVP	EVP	0
+Echo	Echo	0
+Ekko	Ekko	0
+Elasticsearch	Elasticsearch	0
+Email营销	Email ying xiao	0
+Employee Assistance Program	Employee Assistance Program	0
+Employee Net Promoter Score	Employee Net Promoter Score	0
+Eva	Eva	0
+Exposure at Default	Exposure at Default	0
+F7	F7	0
+FAAS	FAAS	0
+FE	FE	0
+FEC	FEC	0
+FFprobe	FFprobe	0
+FLV	FLV	0
+FPM	FPM	0
+FRUC	FRUC	0
+FSSC	FSSC	0
+FT	FT	0
+FT健康度	FT jian kang du	0
+FT类型	FT lei xing	0
+FTM面试	FTM mian shi	0
+FYI	FYI	0
+Faceless	Faceless	0
+Fast Handover Rate	Fast Handover Rate	0
+Feature Team Owner	Feature Team Owner	0
+Feature视图	Feature shi tu	0
+Featured	Featured	0
+Feed	Feed	0
+Feed流	Feed liu	0
+Figma	Figma	0
+Figma 开发者模式	Figma  kai fa zhe mo shi	0
+Figma Dev mode	Figma Dev mode	0
+Firewall	Firewall	0
+First Meaningful Paint	First Meaningful Paint	0
+Flink	Flink	0
+Fmp4	Fmp4	0
+Forward-Looking Information	Forward-Looking Information	0
+Fresco	Fresco	0
+GC	GC	0
+GIF	GIF	0
+GOP	GOP	0
+GPH	GPH	0
+GPM	GPM	0
+GPT	GPT	0
+GPU	GPU	0
+GPU虚拟化	GPU xu ni hua	0
+GPU在离线混部	GPU zai li xian hun bu	0
+GR	GR	0
+GTM	GTM	0
+GTV	GTV	0
+GUI	GUI	0
+GWP-ASan	GWP-ASan	0
+Galaxy	Galaxy	0
+Gateway	Gateway	0
+Gitlab	Gitlab	0
+Glimmer UI	Glimmer UI	0
+Google Advertising ID	Google Advertising ID	0
+GorgeousSDK	GorgeousSDK	0
+Grafana	Grafana	0
+Gross Merchandise Value	Gross Merchandise Value	0
+Gundam	Gundam	0
+H.264（AVC）	H.264（AVC）	0
+H.265（HEVC）	H.265（HEVC）	0
+H.266（VVC）	H.266（VVC）	0
+H1	H1	0
+HALO	HALO	0
+HC	HC	0
+HDFS	HDFS	0
+HDR	HDR	0
+HE-AAC	HE-AAC	0
+HEIF	HEIF	0
+HEP	HEP	0
+HLS	HLS	0
+HR	HR	0
+HR产品体验官	HR chan pin ti yan guan	0
+HR小C	HR xiao C	0
+HR咨询	HR zi xun	0
+HRBP1部	HRBP1 bu	0
+HRBP2部	HRBP2 bu	0
+HRBP3部	HRBP3 bu	0
+HRBP4	HRBP4	0
+HRBP4部	HRBP4 bu	0
+HRBP5部	HRBP5 bu	0
+HRBP6部	HRBP6 bu	0
+HRBP7部	HRBP7 bu	0
+HRPA	HRPA	0
+Hadoop	Hadoop	0
+Hadoop Upserts Deletes and Incrementals	Hadoop Upserts Deletes and Incrementals	0
+HarmonyOS NEXT	HarmonyOS NEXT	0
+HashTag	HashTag	0
+Havok	Havok	0
+Heap Profiling	Heap Profiling	0
+High Voltage Direct Current	High Voltage Direct Current	0
+Hive	Hive	0
+Hodor	Hodor	0
+Holdout实验	Holdout shi yan	0
+Hotfix	Hotfix	0
+Hourglass	Hourglass	0
+Http Mock	Http Mock	0
+Human Resource Business Partner	Human Resource Business Partner	0
+Hypo	Hypo	0
+Hypothesis Testing	Hypothesis Testing	0
+I帧	I zhen	0
+I/O	I/O	0
+IAE	IAE	0
+IAM	IAM	0
+IAP	IAP	0
+IC	IC	0
+ICP证	ICP zheng	0
+ID冲突	ID chong tu	0
+ID冲撞	ID chong zhuang	0
+IDC	IDC	0
+IDC证	IDC zheng	0
+IDE	IDE	0
+IDP	IDP	0
+IFS	IFS	0
+IGA	IGA	0
+IM	IM	0
+IMOP	IMOP	0
+IP	IP	0
+IP高精度定位	IP gao jing du ding wei	0
+IPIP	IPIP	0
+ISP	ISP	0
+ISP证	ISP zheng	0
+IT	IT	0
+IT部门	IT bu men	0
+IT服务	IT fu wu	0
+IT数据平台	IT shu ju ping tai	0
+IT同学	IT tong xue	0
+IT团队	IT tuan dui	0
+IT小哥	IT xiao ge	0
+IT中心	IT zhong xin	0
+IT资产管理	IT zi chan guan li	0
+IT组	IT zu	0
+ITBP	ITBP	0
+ITDR	ITDR	0
+Identity Attack Surface Management	Identity Attack Surface Management	0
+Impressions Per User/每个用户展示次数	Impressions Per User/ mei ge yong hu zhan shi ci shu	0
+In-app Ads	In-app Ads	0
+Independent software vendor	Independent software vendor	0
+Integrated Release	Integrated Release	0
+Integration Test	Integration Test	0
+Intrusion-Prevention System	Intrusion-Prevention System	0
+Item-based Collaborative Filtering	Item-based Collaborative Filtering	0
+JD	JD	0
+JPEG	JPEG	0
+JSON Web TokenJWT	JSON Web TokenJWT	0
+Jaime	Jaime	0
+Jar包分层	Jar bao fen ceng	0
+Jar包分层规范	Jar bao fen ceng gui fan	0
+Jar包分类	Jar bao fen lei	0
+Jar包分类分层	Jar bao fen lei fen ceng	0
+Java制品库	Java zhi pin ku	0
+Jenkins	Jenkins	0
+Jia	Jia	0
+Jinx	Jinx	0
+Jon	Jon	0
+Jupyter	Jupyter	0
+K币	K bi	0
+K/D	K/D	0
+K265-Live	K265-Live	0
+KA	KA	0
+KACRM	KACRM	0
+KAI	KAI	0
+KAI-Serving	KAI-Serving	0
+KAI2.0产品化	KAI2.0 chan pin hua	0
+KAPI	KAPI	0
+KAQ	KAQ	0
+KAS平台	KAS ping tai	0
+KAS账号	KAS zhang hao	0
+KAT	KAT	0
+KBox	KBox	0
+KBuild	KBuild	0
+KCDN	KCDN	0
+KCE	KCE	0
+KCP容量平台	KCP rong liang ping tai	0
+KCSP	KCSP	0
+KCache	KCache	0
+KD比	KD bi	0
+KDB	KDB	0
+KDEV-UPM权限系统	KDEV-UPM quan xian xi tong	0
+KDS	KDS	0
+KDS 实时开发平台	KDS  shi shi kai fa ping tai	0
+KDS火焰图	KDS huo yan tu	0
+KDS实时开发平台	KDS shi shi kai fa ping tai	0
+KDS-React	KDS-React	0
+KDS-Vue	KDS-Vue	0
+KDev	KDev	0
+KEP	KEP	0
+KES	KES	0
+KESS	KESS	0
+KESS服务名	KESS fu wu ming	0
+KESS名	KESS ming	0
+KESS注册发现名	KESS zhu ce fa xian ming	0
+KEnvi	KEnvi	0
+KFAT	KFAT	0
+KFB	KFB	0
+KFX	KFX	0
+KGPU	KGPU	0
+KGW	KGW	0
+KGateway	KGateway	0
+KGraph	KGraph	0
+KIBN	KIBN	0
+KIMO	KIMO	0
+KIMO社区	KIMO she qu	0
+KIP	KIP	0
+KJavaDebugger	KJavaDebugger	0
+KK	KK	0
+KL散度	KL san du	0
+KL散度（Kullback-Leibler Divergence）	KL san du （Kullback-Leibler Divergence）	0
+KLP	KLP	0
+KLog	KLog	0
+KMA	KMA	0
+KMake	KMake	0
+KMeeting	KMeeting	0
+KMirror	KMirror	0
+KMock	KMock	0
+KMonkey	KMonkey	0
+KNS	KNS	0
+KNode	KNode	0
+KOC	KOC	0
+KOncall	KOncall	0
+KPG	KPG	0
+KPN	KPN	0
+KProf-Lite	KProf-Lite	0
+KProxy	KProxy	0
+KRX	KRX	0
+KRunner	KRunner	0
+KSIBHR	KSIBHR	0
+KScreen	KScreen	0
+KStack	KStack	0
+KStack社区吉祥物	KStack she qu ji xiang wu	0
+KStudio	KStudio	0
+KTP	KTP	0
+KTP-gateway	KTP-gateway	0
+KTS	KTS	0
+KTS域名解析管理	KTS yu ming jie xi guan li	0
+KTable	KTable	0
+KTool	KTool	0
+KUnit	KUnit	0
+KV API	KV API	0
+KV查询	KV cha xun	0
+KVA	KVA	0
+KVC	KVC	0
+KVI商品	KVI shang pin	0
+KVQ	KVQ	0
+KVS引擎	KVS yin qing	0
+KVVC	KVVC	0
+KWAI	KWAI	0
+KWS	KWS	0
+KWS Service Name	KWS Service Name	0
+Kafka	Kafka	0
+Kaleido 万花筒	Kaleido  wan hua tong	0
+Kaleido Access	Kaleido Access	0
+Kaleido App Engine	Kaleido App Engine	0
+Kappa系数	Kappa xi shu	0
+Kata Container	Kata Container	0
+Kcode	Kcode	0
+Kconf	Kconf	0
+Kconf 可视化配置	Kconf  ke shi hua pei zhi	0
+KconfCompare	KconfCompare	0
+Kcube	Kcube	0
+KeyCenter	KeyCenter	0
+Kibana	Kibana	0
+Kid平台	Kid ping tai	0
+Kim 话题	Kim  hua ti	0
+Kim 机器人	Kim  ji qi ren	0
+Kim 头像框	Kim  tou xiang kuang	0
+Kim 消息号	Kim  xiao xi hao	0
+Kim 3.0	Kim 3.0	0
+Kim 3.0 青霜版	Kim 3.0  qing shuang ban	0
+Kim会议室	Kim hui yi shi	0
+Kim机器人	Kim ji qi ren	0
+Kim日历	Kim ri li	0
+Kit 移动端	Kit  yi dong duan	0
+Kit PC端	Kit PC duan	0
+Kit PC端/托盘 Kit 控制AWDL	Kit PC duan / tuo pan  Kit  kong zhi AWDL	0
+Kit修复工具	Kit xiu fu gong ju	0
+Kit/PC	Kit/PC	0
+Kiwi	Kiwi	0
+Kling	Kling	0
+KoKo	KoKo	0
+Kone	Kone	0
+Kres	Kres	0
+Krpc Mock	Krpc Mock	0
+Ksp	Ksp	0
+Kswitch	Kswitch	0
+Ktrace	Ktrace	0
+Kuaishou Recommend Platform	Kuaishou Recommend Platform	0
+Kuaishou Restoration Processing	Kuaishou Restoration Processing	0
+Kviewer	Kviewer	0
+KwaiBI	KwaiBI	0
+KwaiBI大屏	KwaiBI da ping	0
+Kwaiflow	Kwaiflow	0
+Kwaipilot	Kwaipilot	0
+L2R	L2R	0
+LAS	LAS	0
+LC	LC	0
+LGTM	LGTM	0
+LID	LID	0
+LLM	LLM	0
+LPM	LPM	0
+LR	LR	0
+LR实验	LR shi yan	0
+LRB	LRB	0
+Lag	Lag	0
+Landing Page	Landing Page	0
+LangChain	LangChain	0
+Life Time Value	Life Time Value	0
+Lifetime	Lifetime	0
+Linux内核	Linux nei he	0
+Load Balancing Service	Load Balancing Service	0
+Lookalike	Lookalike	0
+Loss Given Default	Loss Given Default	0
+Luigi	Luigi	0
+M0-码灵	M0- ma ling	0
+MAA	MAA	0
+MAPI	MAPI	0
+MCB	MCB	0
+MCN	MCN	0
+MCP	MCP	0
+MCU	MCU	0
+MCharts	MCharts	0
+MDtools	MDtools	0
+MDtools插件	MDtools cha jian	0
+MECE	MECE	0
+MK	MK	0
+MKV	MKV	0
+MLOps-Alpina	MLOps-Alpina	0
+MMP	MMP	0
+MMU	MMU	0
+MPEG	MPEG	0
+MQ Mock	MQ Mock	0
+MR	MR	0
+MRD	MRD	0
+MTBF	MTBF	0
+MTTA	MTTA	0
+MTTD	MTTD	0
+MTTF	MTTF	0
+MTTR	MTTR	0
+MTVD	MTVD	0
+Make Everyone Shine	Make Everyone Shine	0
+Manifest	Manifest	0
+Marginal Cost	Marginal Cost	0
+Matrix	Matrix	0
+Matrix-增长资源位及流量管理平台	Matrix- zeng zhang zi yuan wei ji liu liang guan li ping tai	0
+Maven	Maven	0
+Maven私服	Maven si fu	0
+MeData	MeData	0
+Memcache	Memcache	0
+Memcached	Memcached	0
+Memory Tagging Extension	Memory Tagging Extension	0
+Mentor	Mentor	0
+Merchant Data Service	Merchant Data Service	0
+Microsoft Deployment Toolkit	Microsoft Deployment Toolkit	0
+MineCraft	MineCraft	0
+Minimum Detectable Effect	Minimum Detectable Effect	0
+Mixcard	Mixcard	0
+Mixcard 预览平台	Mixcard  yu lan ping tai	0
+Mixed Reality	Mixed Reality	0
+ModelX	ModelX	0
+Modular Programming	Modular Programming	0
+MongoDB	MongoDB	0
+Monthly Active User	Monthly Active User	0
+Multi-Factor Authentication	Multi-Factor Authentication	0
+Muses	Muses	0
+Muxing	Muxing	0
+MySQL	MySQL	0
+N+X系统	N+X xi tong	0
+NAT穿透技术	NAT chuan tou ji shu	0
+NEO	NEO	0
+NHI	NHI	0
+NLP	NLP	0
+NPM	NPM	0
+NPS	NPS	0
+NUMA	NUMA	0
+Net Dollar Retention	Net Dollar Retention	0
+Net Promoter Score	Net Promoter Score	0
+Network Address Translation	Network Address Translation	0
+NoCode	NoCode	0
+NoCode平台	NoCode ping tai	0
+Noah	Noah	0
+Non-Fungible Token	Non-Fungible Token	0
+OA 平台	OA  ping tai	0
+OA系统	OA xi tong	0
+OBS	OBS	0
+OC	OC	0
+OCR	OCR	0
+OD	OD	0
+ODS	ODS	0
+OFFER	OFFER	0
+OGC	OGC	0
+OKR	OKR	0
+OOD测试衰减率	OOD ce shi shuai jian lv	0
+OOD测试衰减率（Out-of-Distribution Degradation Rate）	OOD ce shi shuai jian lv （Out-of-Distribution Degradation Rate）	0
+OOM	OOM	0
+OPENAPI	OPENAPI	0
+OPM	OPM	0
+OSPF	OSPF	0
+OTP	OTP	0
+On-Line Analytical Processing	On-Line Analytical Processing	0
+On-Premise	On-Premise	0
+OnCall	OnCall	0
+One API	One API	0
+OneId	OneId	0
+OoO	OoO	0
+Open Computing Language	Open Computing Language	0
+OpenAI	OpenAI	0
+Optimized Cost per Mille	Optimized Cost per Mille	0
+Option	Option	0
+Orders Per Hour	Orders Per Hour	0
+Original Design Manufacturer	Original Design Manufacturer	0
+Original Equipment Manufacture	Original Equipment Manufacture	0
+P页	P ye	0
+P帧	P zhen	0
+P值	P zhi	0
+PAM	PAM	0
+PAZ	PAZ	0
+PB协议	PB xie yi	0
+PCI	PCI	0
+PCM	PCM	0
+PCOC	PCOC	0
+PIA	PIA	0
+PLG	PLG	0
+PM	PM	0
+PMF	PMF	0
+PMO	PMO	0
+PMR	PMR	0
+PNG	PNG	0
+POC	POC	0
+POD面单	POD mian dan	0
+POI	POI	0
+POM	POM	0
+PPS	PPS	0
+PR	PR	0
+PR/FAQ	PR/FAQ	0
+PRC	PRC	0
+PRD	PRD	0
+PREONLINE环境	PREONLINE huan jing	0
+PRT环境	PRT huan jing	0
+PTS	PTS	0
+PUGC	PUGC	0
+PV	PV	0
+PWA	PWA	0
+PaaS	PaaS	0
+Peak Concurrent Users	Peak Concurrent Users	0
+Percent Point	Percent Point	0
+Perf-Insight	Perf-Insight	0
+Pet	Pet	0
+Pet组件市场	Pet zu jian shi chang	0
+Photo ID	Photo ID	0
+Photo Left Corner	Photo Left Corner	0
+PhotoCopy	PhotoCopy	0
+Photoshop	Photoshop	0
+Pig	Pig	0
+Pipeline	Pipeline	0
+Pirate	Pirate	0
+PixelBuffer	PixelBuffer	0
+PlaybackPts	PlaybackPts	0
+Policy-Based Access Control	Policy-Based Access Control	0
+Power Load Factor	Power Load Factor	0
+Power Usage Effectiveness	Power Usage Effectiveness	0
+Pre环境	Pre huan jing	0
+Preferred Deal	Preferred Deal	0
+Presto	Presto	0
+Probability of Default	Probability of Default	0
+Procon-SP	Procon-SP	0
+Prod环境	Prod huan jing	0
+Profile	Profile	0
+Prompt工程管理平台	Prompt gong cheng guan li ping tai	0
+Prompt管理平台	Prompt guan li ping tai	0
+Proto文件	Proto wen jian	0
+Public interests	Public interests	0
+Purchase request To Payment	Purchase request To Payment	0
+Push 开放接口	Push  kai fang jie kou	0
+Push接口	Push jie kou	0
+Push开放接口	Push kai fang jie kou	0
+Q&A	Q&A	0
+Q1	Q1	0
+QCPX	QCPX	0
+QPS	QPS	0
+QS	QS	0
+QTD	QTD	0
+QUIC	QUIC	0
+QoS	QoS	0
+QoX	QoX	0
+Quality Assurance	Quality Assurance	0
+RAG	RAG	0
+RAM	RAM	0
+RBAC	RBAC	0
+RD	RD	0
+RFM	RFM	0
+RIAID	RIAID	0
+ROM	ROM	0
+RPC服务名	RPC fu wu ming	0
+RPCMonitor	RPCMonitor	0
+RPM	RPM	0
+RPO	RPO	0
+RPR	RPR	0
+RPV	RPV	0
+RR	RR	0
+RSU	RSU	0
+RTB 实时竞价	RTB  shi shi jing jia	0
+RTC	RTC	0
+RTMP	RTMP	0
+RTN	RTN	0
+RTO	RTO	0
+RTP	RTP	0
+RUBAS	RUBAS	0
+Radar	Radar	0
+Random Forest	Random Forest	0
+Raven	Raven	0
+Realtime API	Realtime API	0
+Reclame Aqui	Reclame Aqui	0
+Reco	Reco	0
+RecoRPC	RecoRPC	0
+Redis	Redis	0
+Region	Region	0
+Regression Analysis	Regression Analysis	0
+Relay	Relay	0
+Remote Power Panel	Remote Power Panel	0
+Remote Procedure Call	Remote Procedure Call	0
+Render	Render	0
+ResidualCompliance Risk	ResidualCompliance Risk	0
+Restful	Restful	0
+Return On AD Spending	Return On AD Spending	0
+Return On Investment	Return On Investment	0
+Rickon	Rickon	0
+RocketMQ	RocketMQ	0
+Router	Router	0
+SA	SA	0
+SCQA	SCQA	0
+SCQA表达模型	SCQA biao da mo xing	0
+SCTR	SCTR	0
+SDK	SDK	0
+SDL	SDL	0
+SDPA	SDPA	0
+SDR	SDR	0
+SEM	SEM	0
+SFU	SFU	0
+SIEM	SIEM	0
+SIM	SIM	0
+SL200	SL200	0
+SLA	SLA	0
+SLO	SLO	0
+SMART原则	SMART yuan ze	0
+SMKVH	SMKVH	0
+SNS	SNS	0
+SOAR	SOAR	0
+SOC	SOC	0
+SOP	SOP	0
+SOTA	SOTA	0
+SP证	SP zheng	0
+SPAM	SPAM	0
+SPS	SPS	0
+SPSS	SPSS	0
+SPU	SPU	0
+SQL	SQL	0
+SQL取数	SQL qu shu	0
+SQL注入	SQL zhu ru	0
+SQLScan	SQLScan	0
+SR	SR	0
+SRC	SRC	0
+SRM	SRM	0
+SRM检测	SRM jian ce	0
+SRS	SRS	0
+SSE	SSE	0
+SSO	SSO	0
+SSRF	SSRF	0
+STC	STC	0
+STID	STID	0
+SVC	SVC	0
+SWFT	SWFT	0
+SWOT	SWOT	0
+SaaS	SaaS	0
+Saber	Saber	0
+Saber 火焰图	Saber  huo yan tu	0
+Saber火焰图	Saber huo yan tu	0
+SampleBuffer	SampleBuffer	0
+Search Engine Optimization	Search Engine Optimization	0
+Search engine results page	Search engine results page	0
+Serverless	Serverless	0
+Service服务治理中心	Service fu wu zhi li zhong xin	0
+ServiceToken	ServiceToken	0
+Session	Session	0
+Shellcode	Shellcode	0
+Siamese	Siamese	0
+Single source of truth	Single source of truth	0
+Smart Plan	Smart Plan	0
+Snack	Snack	0
+SoundMatrix	SoundMatrix	0
+Spark	Spark	0
+Special Offer	Special Offer	0
+Staging	Staging	0
+Staging 环境	Staging  huan jing	0
+Stannis	Stannis	0
+Static Application Security Testing	Static Application Security Testing	0
+Storm	Storm	0
+Struct Check	Struct Check	0
+Subversion	Subversion	0
+Super Key Account	Super Key Account	0
+Swagger	Swagger	0
+Switch	Switch	0
+SysLab	SysLab	0
+Sysdg	Sysdg	0
+System Testing	System Testing	0
+T检验	T jian yan	0
+TC	TC	0
+TDK	TDK	0
+TF	TF	0
+TGI指数	TGI zhi shu	0
+TK	TK	0
+TMT产业	TMT chan ye	0
+TNU	TNU	0
+TTS	TTS	0
+Tanx	Tanx	0
+Targaryen	Targaryen	0
+Team	Team	0
+Team Leader	Team Leader	0
+Team翻转	Team fan zhuan	0
+TechLink	TechLink	0
+TechLink插件	TechLink cha jian	0
+Tensor Parallel	Tensor Parallel	0
+Tensorflow	Tensorflow	0
+Text2SQL	Text2SQL	0
+Threads	Threads	0
+Time to Interactive	Time to Interactive	0
+ToDesk远程桌面软件	ToDesk yuan cheng zhuo mian ruan jian	0
+Token	Token	0
+Trace	Trace	0
+Transmission Control Protocol	Transmission Control Protocol	0
+Tree-based Deep Model Match	Tree-based Deep Model Match	0
+Type II Error	Type II Error	0
+U2I	U2I	0
+UAID	UAID	0
+UEQ	UEQ	0
+UGC	UGC	0
+UID	UID	0
+UPM权限平台	UPM quan xian ping tai	0
+USP	USP	0
+UX	UX	0
+Ulink、	Ulink、	0
+User Datagram Protocol	User Datagram Protocol	0
+User Retention	User Retention	0
+VAST协议	VAST xie yi	0
+VAZ	VAZ	0
+VPN证	VPN zheng	0
+VTR	VTR	0
+VV	VV	0
+VVC（H.266）	VVC（H.266）	0
+Venture Capital	Venture Capital	0
+Venus——音视频	Venus—— yin shi pin	0
+VideoRender	VideoRender	0
+Virtual Local Area Network	Virtual Local Area Network	0
+Virtual Private Network	Virtual Private Network	0
+Virtualization	Virtualization	0
+Vision	Vision	0
+WAF	WAF	0
+WAU	WAU	0
+WAU（Weekly Active Users）	WAU（Weekly Active Users）	0
+WFH	WFH	0
+WHEP	WHEP	0
+WHIP	WHIP	0
+WIP	WIP	0
+We我们工作室	We wo men gong zuo shi	0
+Web 应用防护系统	Web  ying yong fang hu xi tong	0
+Web资产平台	Web zi chan ping tai	0
+WebContainer	WebContainer	0
+WebOps	WebOps	0
+WebP	WebP	0
+Westeros	Westeros	0
+X世代	X shi dai	0
+X7	X7	0
+XML	XML	0
+XPlayer	XPlayer	0
+XXE	XXE	0
+Y世代	Y shi dai	0
+YKit	YKit	0
+YOY	YOY	0
+YUV	YUV	0
+Yarn	Yarn	0
+Z世代	Z shi dai	0
+Zaku	Zaku	0
+阿尔贝娜	a er bei na	0
+阿尔宾娜	a er bin na	0
+阿尔萨斯	a er sa si	0
+阿童木平台	a tong mu ping tai	0
+admin	admin	0
+adx	adx	0
+安全基线	an quan ji xian	0
+安全基线核查	an quan ji xian he cha	0
+安全加固	an quan jia gu	0
+安全开发生命周期	an quan kai fa sheng ming zhou qi	0
+安全模式	an quan mo shi	0
+安全品牌标准	an quan pin pai biao zhun	0
+安全信息和事件管理	an quan xin xi he shi jian guan li	0
+安全运营中心	an quan yun ying zhong xin	0
+按下载收费	an xia zai shou fei	0
+按销售付费	an xiao shou fu fei	0
+安卓漏洞	an zhuo lou dong	0
+anr	anr	0
+app event optimization	app event optimization	0
+applab	applab	0
+ase	ase	0
+bFC	bFC	0
+八大人群	ba da ren qun	0
+八大消费人群	ba da xiao fei ren qun	0
+霸屏PK	ba ping PK	0
+back door	back door	0
+badcase	badcase	0
+百川	bai chuan	0
+百川计划	bai chuan ji hua	0
+百分点	bai fen dian	0
+白盒化	bai he hua	0
+白盒扫描	bai he sao miao	0
+百科	bai ke	0
+百科星图	bai ke xing tu	0
+白帽子	bai mao zi	0
+白名单	bai ming dan	0
+白噪音	bai zao yin	0
+板爆计划	ban bao ji hua	0
+班车	ban che	0
+班车视图	ban che shi tu	0
+办公设备申请	ban gong she bei shen qing	0
+办公网络	ban gong wang luo	0
+办公自动化系统	ban gong zi dong hua xi tong	0
+板换	ban huan	0
+版权	ban quan	0
+板式换热器	ban shi huan re qi	0
+薄冰哥	bao bing ge	0
+曝光阈值	bao guang yu zhi	0
+堡垒机	bao lei ji	0
+苞麦	bao mai	0
+苞麦数据中心	bao mai shu ju zhong xin	0
+保密协议	bao mi xie yi	0
+报文异动监控(PMR)平台	bao wen yi dong jian kong (PMR) ping tai	0
+保险	bao xian	0
+报销	bao xiao	0
+baomai	baomai	0
+背调	bei diao	0
+北方大土豆	bei fang da tu dou	0
+备机领用	bei ji ling yong	0
+北极星指标	bei ji xing zhi biao	0
+背景调查	bei jing diao cha	0
+北京积分落户	bei jing ji fen luo hu	0
+北京市工作居住证	bei jing shi gong zuo ju zhu zheng	0
+北京市海淀区人力资源与社会保障局	bei jing shi hai dian qu ren li zi yuan yu she hui bao zhang ju	0
+北京市积分落户	bei jing shi ji fen luo hu	0
+北京市居住证	bei jing shi ju zhu zheng	0
+背景噪音抑制功能	bei jing zao yin yi zhi gong neng	0
+贝叶斯网络	bei ye si wang luo	0
+本地生活合规	ben di sheng huo he gui	0
+本地推	ben di tui	0
+崩溃率	beng kui lv	0
+避风港原则	bi feng gang yuan ze	0
+闭环	bi huan	0
+比价	bi jia	0
+必解	bi jie	0
+必扬特效开放平台	bi yang te xiao kai fang ping tai	0
+变更管控	bian geng guan kong	0
+变更规范	bian geng gui fan	0
+变更健康分	bian geng jian kang fen	0
+边际成本	bian ji cheng ben	0
+扁鹊	bian que	0
+变压器	bian ya qi	0
+标杆案例	biao gan an li	0
+表格插件	biao ge cha jian	0
+表结构	biao jie gou	0
+标签	biao qian	0
+表演权	biao yan quan	0
+表演者权	biao yan zhe quan	0
+标准	biao zhun	0
+标准必要专利	biao zhun bi yao zhuan li	0
+标准产品单位	biao zhun chan pin dan wei	0
+标准工时制	biao zhun gong shi zhi	0
+标准工作制	biao zhun gong zuo zhi	0
+标准问	biao zhun wen	0
+标准作业程序	biao zhun zuo ye cheng xu	0
+病假	bing jia	0
+blade	blade	0
+brizo	brizo	0
+补偿	bu chang	0
+不定时工作制	bu ding shi gong zuo zhi	0
+不动产抵押	bu dong chan di ya	0
+不间断电源系统	bu jian duan dian yuan xi tong	0
+部门间分摊	bu men jian fen tan	0
+哺乳时间	bu ru shi jian	0
+不胜任	bu sheng ren	0
+部署健康分	bu shu jian kang fen	0
+部署平台	bu shu ping tai	0
+采购	cai gou	0
+采购策略	cai gou ce lve	0
+采购订单	cai gou ding dan	0
+采购合同	cai gou he tong	0
+采购履行	cai gou lv xing	0
+采购绕过	cai gou rao guo	0
+采购申请	cai gou shen qing	0
+采购谈判	cai gou tan pan	0
+采购需求	cai gou xu qiu	0
+采购需求变更	cai gou xu qiu bian geng	0
+采购验收	cai gou yan shou	0
+采购业务	cai gou ye wu	0
+彩机	cai ji	0
+callback	callback	0
+餐补	can bu	0
+餐区直播	can qu zhi bo	0
+仓库模板	cang ku mu ban	0
+case评审	case ping shen	0
+策略平台	ce lve ping tai	0
+策略通道	ce lve tong dao	0
+策略引擎	ce lve yin qing	0
+测试服务化	ce shi fu wu hua	0
+测试工程师	ce shi gong cheng shi	0
+测试用例与计划管理	ce shi yong li yu ji hua guan li	0
+差旅报销	cha lv bao xiao	0
+差旅平台	cha lv ping tai	0
+差旅预定	cha lv yu ding	0
+查重	cha zhong	0
+柴发系统	chai fa xi tong	0
+柴油发电机系统	chai you fa dian ji xi tong	0
+产假	chan jia	0
+产检假	chan jian jia	0
+产品进入市场	chan pin jin ru shi chang	0
+产品经理	chan pin jing li	0
+产品需求文档	chan pin xu qiu wen dang	0
+产品质量责任	chan pin zhi liang ze ren	0
+产品专家	chan pin zhuan jia	0
+产业带	chan ye dai	0
+场景化诊断	chang jing hua zhen duan	0
+场景自动化	chang jing zi dong hua	0
+长期合同	chang qi he tong	0
+长期激励	chang qi ji li	0
+长期借用	chang qi jie yong	0
+常用软件下载	chang yong ruan jian xia zai	0
+超参	chao can	0
+超参数	chao can shu	0
+超品日	chao pin ri	0
+超文本传输协议	chao wen ben chuan shu xie yi	0
+成本核算平台	cheng ben he suan ping tai	0
+成都理想中心职场	cheng du li xiang zhong xin zhi chang	0
+成长体系	cheng zhang ti xi	0
+成长指南	cheng zhang zhi nan	0
+池化	chi hua	0
+吃席手艺人	chi xi shou yi ren	0
+持续交付	chi xu jiao fu	0
+持续性能测试	chi xu xing neng ce shi	0
+重返案发现场	chong fan an fa xian chang	0
+重复访客	chong fu fang ke	0
+重合度	chong he du	0
+抽奖	chou jiang	0
+抽离透传	chou li tou chuan	0
+抽象语法树	chou xiang yu fa shu	0
+出版物经营许可证	chu ban wu jing ying xu ke zheng	0
+处理大模型	chu li da mo xing	0
+出坡	chu po	0
+处置调控	chu zhi tiao kong	0
+串行发布	chuan xing fa bu	0
+创伤后应激障碍	chuang shang hou ying ji zhang ai	0
+垂类	chui lei	0
+春节特惠假	chun jie te hui jia	0
+纯血鸿蒙	chun xue hong meng	0
+词典管理平台	ci dian guan li ping tai	0
+词典平台	ci dian ping tai	0
+磁力 追踪	ci li   zhui zong	0
+磁力本地推	ci li ben di tui	0
+磁力方舟	ci li fang zhou	0
+磁力建站	ci li jian zhan	0
+磁力金牛	ci li jin niu	0
+磁力金牛服务商	ci li jin niu fu wu shang	0
+磁力聚星	ci li ju xing	0
+磁力开创	ci li kai chuang	0
+磁力开创/AIGC短视频	ci li kai chuang /AIGC duan shi pin	0
+磁力快车	ci li kuai che	0
+磁力快创	ci li kuai chuang	0
+磁力快聊	ci li kuai liao	0
+磁力罗盘	ci li luo pan	0
+磁力天服	ci li tian fu	0
+磁力天演	ci li tian yan	0
+磁力万合	ci li wan he	0
+磁力万象	ci li wan xiang	0
+磁力万象私有模型	ci li wan xiang si you mo xing	0
+磁力学	ci li xue	0
+磁力营销平台	ci li ying xiao ping tai	0
+磁力智策	ci li zhi ce	0
+磁力智审	ci li zhi shen	0
+磁力智投	ci li zhi tou	0
+磁力智友	ci li zhi you	0
+磁力追踪	ci li zhui zong	0
+词作品	ci zuo pin	0
+cloud dev	cloud dev	0
+codemeta	codemeta	0
+consul	consul	0
+control environment	control environment	0
+cpu throttling	cpu throttling	0
+crash	crash	0
+促销	cu xiao	0
+催告函	cui gao han	0
+存储成熟度	cun chu cheng shu du	0
+存储架构成熟度	cun chu jia gou cheng shu du	0
+存储健康度	cun chu jian kang du	0
+大R	da R	0
+大冰	da bing	0
+达芬奇	da fen qi	0
+达芬奇画像平台	da fen qi hua xiang ping tai	0
+达芬奇用户画像平台	da fen qi yong hu hua xiang ping tai	0
+打工人	da gong ren	0
+打开理由	da kai li you	0
+达灵	da ling	0
+大模型	da mo xing	0
+达人分	da ren fen	0
+达人看数据	da ren kan shu ju	0
+达人指数	da ren zhi shu	0
+大数据工作流调度平台	da shu ju gong zuo liu diao du ping tai	0
+大型语言模型	da xing yu yan mo xing	0
+打印机	da yin ji	0
+大运河	da yun he	0
+大中国娜娜	da zhong guo na na	0
+带货口碑分	dai huo kou bei fen	0
+代理商平台	dai li shang ping tai	0
+代码仓库	dai ma cang ku	0
+代码分割	dai ma fen ge	0
+代码分离	dai ma fen li	0
+代码封神榜	dai ma feng shen bang	0
+代码开放	dai ma kai fang	0
+代码可维护性指数	dai ma ke wei hu xing zhi shu	0
+代码扫描	dai ma sao miao	0
+代码审查	dai ma shen cha	0
+代码搜索	dai ma sou suo	0
+代码准入	dai ma zhun ru	0
+代通知金	dai tong zhi jin	0
+担保式保量投放	dan bao shi bao liang tou fang	0
+单列	dan lie	0
+单位时间产生的订单量	dan wei shi jian chan sheng de ding dan liang	0
+单一数据源	dan yi shu ju yuan	0
+单元化	dan yuan hua	0
+档位	dang wei	0
+盗版	dao ban	0
+刀哥	dao ge	0
+导流分成	dao liu fen cheng	0
+导师	dao shi	0
+data.ai	data.ai	0
+ddp	ddp	0
+的卢微前端	de lu wei qian duan	0
+等保	deng bao	0
+等级	deng ji	0
+等级体系	deng ji ti xi	0
+低代码	di dai ma	0
+低活	di huo	0
+低绩效	di ji xiao	0
+第三方平台账号	di san fang ping tai zhang hao	0
+低压配电设备	di ya pei dian she bei	0
+点查API	dian cha API	0
+点击付费广告	dian ji fu fei guang gao	0
+点击通过率	dian ji tong guo lv	0
+点金手	dian jin shou	0
+电力分配单元	dian li fen pei dan yuan	0
+电力能效因子	dian li neng xiao yin zi	0
+电脑借用	dian nao jie yong	0
+电脑申请	dian nao shen qing	0
+店铺分	dian pu fen	0
+店铺体验分	dian pu ti yan fen	0
+电签	dian qian	0
+电签合同宝典	dian qian he tong bao dian	0
+电签平台	dian qian ping tai	0
+电签实名认证	dian qian shi ming ren zheng	0
+电签注销	dian qian zhu xiao	0
+电商1pp	dian shang 1pp	0
+电商法务	dian shang fa wu	0
+电商分销	dian shang fen xiao	0
+电商风控	dian shang feng kong	0
+电商风控运营平台	dian shang feng kong yun ying ping tai	0
+电商合规	dian shang he gui	0
+电商开放平台	dian shang kai fang ping tai	0
+电商实时搜索	dian shang shi shi sou suo	0
+电子签署	dian zi qian shu	0
+电子商务平台经营者	dian zi shang wu ping tai jing ying zhe	0
+电子营业执照	dian zi ying ye zhi zhao	0
+电子邮件营销	dian zi you jian ying xiao	0
+调动	diao dong	0
+调度平台	diao du ping tai	0
+调度中心	diao du zhong xin	0
+调休假	diao xiu jia	0
+钓鱼攻击	diao yu gong ji	0
+定榜	ding bang	0
+定点医院	ding dian yi yuan	0
+定压补水设备	ding ya bu shui she bei	0
+dislike率	dislike lv	0
+dobby	dobby	0
+东方新天地	dong fang xin tian di	0
+东风	dong feng	0
+动画降帧	dong hua jiang zhen	0
+动环系统	dong huan xi tong	0
+东栏雪	dong lan xue	0
+动力环境监控系统	dong li huan jing jian kong xi tong	0
+动漫游	dong man you	0
+动漫游戏	dong man you xi	0
+东升	dong sheng	0
+东升科技园	dong sheng ke ji yuan	0
+动态Mock数据	dong tai Mock shu ju	0
+动态广告	dong tai guang gao	0
+动效平台	dong xiao ping tai	0
+dora/Dora工具平台/Dora工具百宝箱	dora/Dora gong ju ping tai /Dora gong ju bai bao xiang	0
+dryrun	dryrun	0
+独家协议	du jia xie yi	0
+独立访客数	du li fang ke shu	0
+独立软件供应商	du li ruan jian gong ying shang	0
+独特的销售主张	du te de xiao shou zhu zhang	0
+独特卖点	du te mai dian	0
+端到端	duan dao duan	0
+短剧	duan ju	0
+端内	duan nei	0
+端上重排	duan shang zhong pai	0
+短视频引流	duan shi pin yin liu	0
+短引	duan yin	0
+端智能	duan zhi neng	0
+端智能特征中心	duan zhi neng te zheng zhong xin	0
+对抗样本鲁棒性	dui kang yang ben lu bang xing	0
+对抗样本鲁棒性（Adversarial Robustness）	dui kang yang ben lu bang xing （Adversarial Robustness）	0
+对抗域名	dui kang yu ming	0
+对账	dui zhang	0
+多比	duo bi	0
+多比·电商经营分析	duo bi · dian shang jing ying fen xi	0
+多媒体理解	duo mei ti li jie	0
+多模型单引擎	duo mo xing dan yin qing	0
+多频道网络	duo pin dao wang luo	0
+多维分析	duo wei fen xi	0
+多维立方体	duo wei li fang ti	0
+多语言平台	duo yu yan ping tai	0
+多重假设检验	duo zhong jia she jian yan	0
+多重检验	duo zhong jian yan	0
+多重约束投标	duo zhong yue shu tou biao	0
+俄罗斯娜娜	e luo si na na	0
+ecpc	ecpc	0
+二次领用	er ci ling yong	0
+二次元刀刀酱	er ci yuan dao dao jiang	0
+二方包	er fang bao	0
+二级团长	er ji tuan zhang	0
+二类错误	er lei cuo wu	0
+二类电商	er lei dian shang	0
+二手群	er shou qun	0
+二向箔	er xiang bo	0
+二向箔平台	er xiang bo ping tai	0
+esp	esp	0
+eureka	eureka	0
+exit before video start	exit before video start	0
+exploit	exploit	0
+发版	fa ban	0
+发标	fa biao	0
+发布班车	fa bu ban che	0
+发布可观测	fa bu ke guan ce	0
+发车	fa che	0
+法定代表人	fa ding dai biao ren	0
+法定年休假	fa ding nian xiu jia	0
+法律顾问	fa lv gu wen	0
+法人人名章	fa ren ren ming zhang	0
+法务	fa wu	0
+法务BP	fa wu BP	0
+法务类合同流程	fa wu lei he tong liu cheng	0
+法务类合同流程审批节点调整	fa wu lei he tong liu cheng shen pi jie dian tiao zheng	0
+发行权	fa xing quan	0
+饭圈乱象	fan quan luan xiang	0
+繁星平台	fan xing ping tai	0
+繁星向量检索平台	fan xing xiang liang jian suo ping tai	0
+房补	fang bu	0
+防盗链	fang dao lian	0
+方法级Mock	fang fa ji Mock	0
+访客WiFi	fang ke WiFi	0
+访问用户量	fang wen yong hu liang	0
+方舟	fang zhou	0
+方舟低代码平台	fang zhou di dai ma ping tai	0
+方舟生产力中台	fang zhou sheng chan li zhong tai	0
+非V非H	fei V fei H	0
+非V非医疗	fei V fei yi liao	0
+非标	fei biao	0
+废标	fei biao	0
+非标资源	fei biao zi yuan	0
+非采购介入行为支出	fei cai gou jie ru hang wei zhi chu	0
+非采购类合同	fei cai gou lei he tong	0
+非采购类合同流程	fei cai gou lei he tong liu cheng	0
+非采购支出	fei cai gou zhi chu	0
+非全日制用工	fei quan ri zhi yong gong	0
+非物质文化遗产	fei wu zhi wen hua yi chan	0
+非线性编辑	fei xian xing bian ji	0
+非遗	fei yi	0
+非遗传习	fei yi chuan xi	0
+非遗传习学堂	fei yi chuan xi xue tang	0
+分布式拒绝服务	fen bu shi ju jue fu wu	0
+分布式块存储	fen bu shi kuai cun chu	0
+分布式文件存储	fen bu shi wen jian cun chu	0
+分发诊断	fen fa zhen duan	0
+分流因子	fen liu yin zi	0
+分群圈选	fen qun quan xuan	0
+粉丝画像	fen si hua xiang	0
+分摊	fen tan	0
+粉条经营版	fen tiao jing ying ban	0
+氛围编程/Vibe Coding/vibe-coding	fen wei bian cheng /Vibe Coding/vibe-coding	0
+分享对抗中台	fen xiang dui kang zhong tai	0
+分享后台	fen xiang hou tai	0
+分享域名配置	fen xiang yu ming pei zhi	0
+分享中台	fen xiang zhong tai	0
+分销	fen xiao	0
+分销团长	fen xiao tuan zhang	0
+分支视图	fen zhi shi tu	0
+分支所有者	fen zhi suo you zhe	0
+蜂巢	feng chao	0
+风驰	feng chi	0
+风控实时指标计算	feng kong shi shi zhi biao ji suan	0
+风控算法训练平台	feng kong suan fa xun lian ping tai	0
+风险处理中心	feng xian chu li zhong xin	0
+风险评估	feng xian ping gu	0
+风险投资	feng xian tou zi	0
+forHR	forHR	0
+覆盖率平台	fu gai lv ping tai	0
+复购订单数	fu gou ding dan shu	0
+复购率	fu gou lv	0
+复购频次	fu gou pin ci	0
+福利	fu li	0
+福利购	fu li gou	0
+福利年假	fu li nian jia	0
+父母陪护假	fu mu pei hu jia	0
+赋能	fu neng	0
+复盘	fu pan	0
+服务 Tab	fu wu  Tab	0
+服务变更过程健康分	fu wu bian geng guo cheng jian kang fen	0
+服务等级协议	fu wu deng ji xie yi	0
+服务端监控	fu wu duan jian kong	0
+服务发现	fu wu fa xian	0
+服务管理	fu wu guan li	0
+服务号	fu wu hao	0
+服务化平台	fu wu hua ping tai	0
+服务名	fu wu ming	0
+服务名称	fu wu ming cheng	0
+服务目录	fu wu mu lu	0
+服务期	fu wu qi	0
+服务树	fu wu shu	0
+服务水平目标	fu wu shui ping mu biao	0
+服务水平指标	fu wu shui ping zhi biao	0
+服务许可证	fu wu xu ke zheng	0
+负向率	fu xiang lv	0
+复印	fu yin	0
+复用	fu yong	0
+负载均衡	fu zai jun heng	0
+负载均衡服务	fu zai jun heng fu wu	0
+复制权	fu zhi quan	0
+gRPC	gRPC	0
+嘎嘎以嘎斯	ga ga yi ga si	0
+改机	gai ji	0
+概念验证	gai nian yan zheng	0
+盖亚	gai ya	0
+盖章	gai zhang	0
+盖章扫描件	gai zhang sao miao jian	0
+盖章纸质件	gai zhang zhi zhi jian	0
+干扰率	gan rao lv	0
+干预平台	gan yu ping tai	0
+高级消息队列协议	gao ji xiao xi dui lie xie yi	0
+高精度IP定位	gao jing du IP ding wei	0
+高可用性	gao ke yong xing	0
+高箐鸿	gao qing hong	0
+高热审核	gao re shen he	0
+高新技术企业证书	gao xin ji shu qi ye zheng shu	0
+高压配电设备	gao ya pei dian she bei	0
+高压直流输电	gao ya zhi liu shu dian	0
+gating	gating	0
+个保法	ge bao fa	0
+个人所得税	ge ren suo de shui	0
+个人信息保护法	ge ren xin xi bao hu fa	0
+个人信息保护影响评估	ge ren xin xi bao hu ying xiang ping gu	0
+个人信息处理者	ge ren xin xi chu li zhe	0
+个人信息看板	ge ren xin xi kan ban	0
+个人信息页	ge ren xin xi ye	0
+个人养老金	ge ren yang lao jin	0
+个税	ge shui	0
+个税汇算清缴	ge shui hui suan qing jiao	0
+个税累积预扣	ge shui lei ji yu kou	0
+个税累计预扣	ge shui lei ji yu kou	0
+个税年度汇算清缴	ge shui nian du hui suan qing jiao	0
+个税月度累计预扣	ge shui yue du lei ji yu kou	0
+个税专项附加扣除	ge shui zhuan xiang fu jia kou chu	0
+个性化Push	ge xing hua Push	0
+更换领用	geng huan ling yong	0
+公安联网备案	gong an lian wang bei an	0
+工程成熟度	gong cheng cheng shu du	0
+工程架构成熟度	gong cheng jia gou cheng shu du	0
+攻防演练	gong fang yan lian	0
+公共关系	gong gong guan xi	0
+公会	gong hui	0
+公积金	gong ji jin	0
+攻击载荷	gong ji zai he	0
+攻击者画像	gong ji zhe hua xiang	0
+工具市场	gong ju shi chang	0
+工卡	gong ka	0
+工卡管理	gong ka guan li	0
+公开来源情报	gong kai lai yuan qing bao	0
+公开招募	gong kai zhao mu	0
+功能卡	gong neng ka	0
+功能寻址干预卡	gong neng xun zhi gan yu ka	0
+供配电系统	gong pei dian xi tong	0
+工伤	gong shang	0
+公司变更	gong si bian geng	0
+公司新设	gong si xin she	0
+公司注销	gong si zhu xiao	0
+共同犯罪	gong tong fan zui	0
+供应方平台	gong ying fang ping tai	0
+供应链	gong ying lian	0
+供应商短名单	gong ying shang duan ming dan	0
+供应商绩效考核	gong ying shang ji xiao kao he	0
+供应商绩效评估	gong ying shang ji xiao ping gu	0
+供应商全生命周期管理	gong ying shang quan sheng ming zhou qi guan li	0
+供应商认证	gong ying shang ren zheng	0
+供应商日常管理	gong ying shang ri chang guan li	0
+供应商选择	gong ying shang xuan ze	0
+供应商长名单	gong ying shang zhang ming dan	0
+供应商组合管理	gong ying shang zu he guan li	0
+公映许可证	gong ying xu ke zheng	0
+公域流量	gong yu liu liang	0
+公章	gong zhang	0
+工资	gong zi	0
+工资单	gong zi dan	0
+工资结算	gong zi jie suan	0
+公租房	gong zu fang	0
+工作不胜任	gong zuo bu sheng ren	0
+工作和生活保持平衡	gong zuo he sheng huo bao chi ping heng	0
+工作居住证聘变	gong zuo ju zhu zheng pin bian	0
+工作居住证随往	gong zuo ju zhu zheng sui wang	0
+工作居住证新办	gong zuo ju zhu zheng xin ban	0
+工作居住证信息变更	gong zuo ju zhu zheng xin xi bian geng	0
+工作居住证续签	gong zuo ju zhu zheng xu qian	0
+工作流调度	gong zuo liu diao du	0
+工作流调度平台	gong zuo liu diao du ping tai	0
+购买样品	gou mai yang pin	0
+购物体验分	gou wu ti yan fen	0
+固定期限	gu ding qi xian	0
+固定期限劳动合同	gu ding qi xian lao dong he tong	0
+固定网国内数据传输证	gu ding wang guo nei shu ju chuan shu zheng	0
+股权激励	gu quan ji li	0
+固有合规风险	gu you he gui feng xian	0
+雇员	gu yuan	0
+故障报告	gu zhang bao gao	0
+故障报修	gu zhang bao xiu	0
+故障复盘	gu zhang fu pan	0
+故障管理平台	gu zhang guan li ping tai	0
+故障平台	gu zhang ping tai	0
+故障演练	gu zhang yan lian	0
+故障演练平台	gu zhang yan lian ping tai	0
+故障注入	gu zhang zhu ru	0
+故障注入平台	gu zhang zhu ru ping tai	0
+雇主	gu zhu	0
+雇主品牌	gu zhu pin pai	0
+挂车视频	gua che shi pin	0
+挂机识别	gua ji shi bie	0
+挂协议	gua xie yi	0
+管道	guan dao	0
+观感优普视频	guan gan you pu shi pin	0
+关键绩效指标	guan jian ji xiao zhi biao	0
+关键意见领袖	guan jian yi jian ling xiu	0
+关键意见消费者	guan jian yi jian xiao fei zhe	0
+管理者	guan li zhe	0
+关联公司	guan lian gong si	0
+关联供应商	guan lian gong ying shang	0
+关联关系证明	guan lian guan xi zheng ming	0
+关联证明	guan lian zheng ming	0
+关系链召回	guan xi lian zhao hui	0
+观象台	guan xiang tai	0
+关小芳	guan xiao fang	0
+广播电视节目制作证	guang bo dian shi jie mu zhi zuo zheng	0
+广播权	guang bo quan	0
+广播证	guang bo zheng	0
+广告购买平台	guang gao gou mai ping tai	0
+广告加载率	guang gao jia zai lv	0
+广告联盟	guang gao lian meng	0
+广告审核	guang gao shen he	0
+广告医生	guang gao yi sheng	0
+广告支出回报	guang gao zhi chu hui bao	0
+广告助攻模型	guang gao zhu gong mo xing	0
+光合大会	guang he da hui	0
+广州天德	guang zhou tian de	0
+归因分析	gui yin fen xi	0
+规则平台	gui ze ping tai	0
+规则引擎	gui ze yin qing	0
+国际化翻译平台	guo ji hua fan yi ping tai	0
+国际软件大厦	guo ji ruan jian da sha	0
+国金中心	guo jin zhong xin	0
+国内多方通信	guo nei duo fang tong xin	0
+国软	guo ruan	0
+郭书记	guo shu ji	0
+郭书计	guo shu ji	0
+哈尔滨东方新天地	ha er bin dong fang xin tian di	0
+哈尔滨东方新天地职场	ha er bin dong fang xin tian di zhi chang	0
+海城你刀哥	hai cheng ni dao ge	0
+海盗模型	hai dao mo xing	0
+海淀人才	hai dian ren cai	0
+海思科	hai si ke	0
+海思科职场	hai si ke zhi chang	0
+海外商业化Web联盟广告SDK	hai wai shang ye hua Web lian meng guang gao SDK	0
+函数计算	han shu ji suan	0
+行业集中度	hang ye ji zhong du	0
+行业前四名份额集中度指标	hang ye qian si ming fen e ji zhong du zhi biao	0
+杭州EFC	hang zhou EFC	0
+杭州EFC职场	hang zhou EFC zhi chang	0
+杭州EFC职场小邮局	hang zhou EFC zhi chang xiao you ju	0
+杭州火炬创新中心	hang zhou huo ju chuang xin zhong xin	0
+杭州火炬创新中心职场	hang zhou huo ju chuang xin zhong xin zhi chang	0
+杭州欧美金融城	hang zhou ou mei jin rong cheng	0
+耗材借用	hao cai jie yong	0
+耗材领用	hao cai ling yong	0
+耗材申请	hao cai shen qing	0
+好运来	hao yun lai	0
+核爆酱肘子	he bao jiang zhou zi	0
+合并请求	he bing qing qiu	0
+赫菲斯托斯	he fei si tuo si	0
+合规	he gui	0
+合规标准	he gui biao zhun	0
+合规风险	he gui feng xian	0
+合同OA	he tong OA	0
+合同定稿	he tong ding gao	0
+合同盖章	he tong gai zhang	0
+合同归档	he tong gui dang	0
+合同流程	he tong liu cheng	0
+合同签约	he tong qian yue	0
+合同审批节点优化	he tong shen pi jie dian you hua	0
+合同章	he tong zhang	0
+合同主体更名	he tong zhu ti geng ming	0
+河图	he tu	0
+河图作者类目	he tu zuo zhe lei mu	0
+黑盒扫描	hei he sao miao	0
+黑客	hei ke	0
+恒定码率因子	heng ding ma lv yin zi	0
+恒隆	heng long	0
+恒湿机	heng shi ji	0
+红海	hong hai	0
+红海市场	hong hai shi chang	0
+红蓝对抗	hong lan dui kang	0
+鸿蒙5.0	hong meng 5.0	0
+鸿蒙Next	hong meng Next	0
+鸿蒙单框架	hong meng dan kuang jia	0
+鸿蒙漏洞	hong meng lou dong	0
+鸿蒙星河版	hong meng xing he ban	0
+红旗原则	hong qi yuan ze	0
+红线	hong xian	0
+hot_reload	hot_reload	0
+后端三座大山	hou duan san zuo da shan	0
+后门	hou men	0
+后台工厂	hou tai gong chang	0
+hprof	hprof	0
+http	http	0
+互斥实验	hu chi shi yan	0
+互联网宗教信息服务许可证	hu lian wang zong jiao xin xi fu wu xu ke zheng	0
+滑动跟手	hua dong gen shou	0
+话题广场	hua ti guang chang	0
+划线价	hua xian jia	0
+画像分析	hua xiang fen xi	0
+画像平台	hua xiang ping tai	0
+灰测	hui ce	0
+灰度	hui du	0
+灰度测试	hui du ce shi	0
+回归	hui gui	0
+回归测试	hui gui ce shi	0
+回归分析	hui gui fen xi	0
+回滚	hui gun	0
+灰盒扫描	hui he sao miao	0
+会话	hui hua	0
+回流	hui liu	0
+灰球策略	hui qiu ce lve	0
+回森	hui sen	0
+回刷	hui shua	0
+汇算清缴	hui suan qing jiao	0
+回填率	hui tian lv	0
+会务	hui wu	0
+会务需求	hui wu xu qiu	0
+会务支持	hui wu zhi chi	0
+回显	hui xian	0
+会议	hui yi	0
+会议室	hui yi shi	0
+会议室预定	hui yi shi yu ding	0
+混合计算	hun he ji suan	0
+混合计算平台	hun he ji suan ping tai	0
+混合推荐	hun he tui jian	0
+混合现实	hun he xian shi	0
+婚假	hun jia	0
+活动保护	huo dong bao hu	0
+活动规则	huo dong gui ze	0
+活动视频横划卡	huo dong shi pin heng hua ka	0
+活动视频强样式	huo dong shi pin qiang yang shi	0
+活水	huo shui	0
+活水计划	huo shui ji hua	0
+火焰图	huo yan tu	0
+货主看数据	huo zhu kan shu ju	0
+iOS漏洞	iOS lou dong	0
+infra-node	infra-node	0
+集采	ji cai	0
+集成测试	ji cheng ce shi	0
+集成发布	ji cheng fa bu	0
+集成分支	ji cheng fen zhi	0
+集成开发平台	ji cheng kai fa ping tai	0
+基础架构即服务	ji chu jia gou ji fu wu	0
+基点	ji dian	0
+机顶交换机	ji ding jiao huan ji	0
+季度	ji du	0
+机构服务	ji gou fu wu	0
+机构服务平台	ji gou fu wu ping tai	0
+机构平台	ji gou ping tai	0
+机构线索	ji gou xian suo	0
+激活激励广告	ji huo ji li guang gao	0
+寄件	ji jian	0
+激励广告	ji li guang gao	0
+激励兼容	ji li jian rong	0
+激励视频	ji li shi pin	0
+级联补数据	ji lian bu shu ju	0
+级联模型	ji lian mo xing	0
+极目	ji mu	0
+积木	ji mu	0
+积木平台	ji mu ping tai	0
+极目（内部版）	ji mu （ nei bu ban ）	0
+机器人防护	ji qi ren fang hu	0
+即时竞价	ji shi jing jia	0
+即时通讯	ji shi tong xun	0
+技术标	ji shu biao	0
+技术支持工程师	ji shu zhi chi gong cheng shi	0
+基线分支	ji xian fen zhi	0
+基线核查	ji xian he cha	0
+集线器	ji xian qi	0
+机型画像	ji xing hua xiang	0
+机型画像平台	ji xing hua xiang ping tai	0
+基于 KVC 编码的图片压缩格式	ji yu  KVC  bian ma de tu pian ya suo ge shi	0
+基于规则的用户行为分析系统	ji yu gui ze de yong hu xing wei fen xi xi tong	0
+基于角色的访问控制	ji yu jue se de fang wen kong zhi	0
+基于位置的服务	ji yu wei zhi de fu wu	0
+纪元	ji yuan	0
+纪元平台	ji yuan ping tai	0
+集中采购	ji zhong cai gou	0
+加班费	jia ban fei	0
+价格承诺	jia ge cheng nuo	0
+价格欺诈	jia ge qi zha	0
+价格清单	jia ge qing dan	0
+架构成熟度	jia gou cheng shu du	0
+架构治理	jia gou zhi li	0
+假货	jia huo	0
+夹角	jia jiao	0
+假冒伪劣	jia mao wei lie	0
+假设检验	jia she jian yan	0
+监督检查	jian du jian cha	0
+监管合规标准	jian guan he gui biao zhun	0
+健康小屋	jian kang xiao wu	0
+监控	jian kong	0
+监控平台	jian kong ping tai	0
+监控系统	jian kong xi tong	0
+建库特征查询	jian ku te zheng cha xun	0
+健身房	jian shen fang	0
+检索增强生成	jian suo zeng qiang sheng cheng	0
+简易直播间	jian yi zhi bo jian	0
+建站	jian zhan	0
+建站平台	jian zhan ping tai	0
+健壮性	jian zhuang xing	0
+脚本模板	jiao ben mu ban	0
+缴费基数上下限	jiao fei ji shu shang xia xian	0
+交付凭证	jiao fu ping zheng	0
+交互式卡片	jiao hu shi ka pian	0
+交互式消息	jiao hu shi xiao xi	0
+教留服	jiao liu fu	0
+交友圈	jiao you quan	0
+交友群	jiao you qun	0
+教育部留学服务中心	jiao yu bu liu xue fu wu zhong xin	0
+解除条款	jie chu tiao kuan	0
+节流	jie liu	0
+接码服务	jie ma fu wu	0
+截图	jie tu	0
+金刚位	jin gang wei	0
+金美娜	jin mei na	0
+金钱豹	jin qian bao	0
+近似最近邻搜索算法	jin si zui jin lin sou suo suan fa	0
+金条	jin tiao	0
+金吾卫	jin wu wei	0
+金销客	jin xiao ke	0
+金销客CRM	jin xiao ke CRM	0
+净促进者得分	jing cu jin zhe de fen	0
+经济补偿	jing ji bu chang	0
+经济补偿金	jing ji bu chang jin	0
+经济制裁	jing ji zhi cai	0
+精灵图	jing ling tu	0
+净收⼊留存	jing shou ⼊ liu cun	0
+静态部署	jing tai bu shu	0
+净推荐值	jing tui jian zhi	0
+精选	jing xuan	0
+竞业限制	jing ye xian zhi	0
+竞业义务	jing ye yi wu	0
+经营范围	jing ying fan wei	0
+经营者集中	jing ying zhe ji zhong	0
+净⽉经常性收⼊	jing ⽉ jing chang xing shou ⼊	0
+纠纷申诉	jiu fen shen su	0
+举报中心	ju bao zhong xin	0
+居家办公	ju jia ban gong	0
+聚星	ju xing	0
+聚星助推	ju xing zhu tui	0
+卷积神经网络	juan ji shen jing wang luo	0
+娟子	juan zi	0
+决策树	jue ce shu	0
+决策引擎	jue ce yin qing	0
+绝对化用语	jue dui hua yong yu	0
+绝对天窗率	jue dui tian chuang lv	0
+绝影	jue ying	0
+jvm方法Mock	jvm fang fa Mock	0
+k3	k3	0
+k8s pod	k8s pod	0
+kDev Feature视图	kDev Feature shi tu	0
+kDev MR	kDev MR	0
+kDev合并请求	kDev he bing qing qiu	0
+kDev-Feature	kDev-Feature	0
+kDev-Feature视图	kDev-Feature shi tu	0
+开标	kai biao	0
+开城	kai cheng	0
+开城地生态主播	kai cheng di sheng tai zhu bo	0
+开创	kai chuang	0
+开发环境	kai fa huan jing	0
+开源合规	kai yuan he gui	0
+开源情报	kai yuan qing bao	0
+开源网络情报	kai yuan wang luo qing bao	0
+看板数据洞察	kan ban shu ju dong cha	0
+考勤	kao qin	0
+karthas	karthas	0
+kcov	kcov	0
+kcov大前端覆盖率平台	kcov da qian duan fu gai lv ping tai	0
+kdev班车	kdev ban che	0
+kdev班车视图	kdev ban che shi tu	0
+kdev发布班车	kdev fa bu ban che	0
+kdev-api管理	kdev-api guan li	0
+kdump	kdump	0
+可变帧率	ke bian zhen lv	0
+可重复构建	ke chong fu gou jian	0
+可重现构建	ke chong xian gou jian	0
+客单价	ke dan jia	0
+客服 Kimi	ke fu  Kimi	0
+客服Kimi	ke fu Kimi	0
+客服号平台	ke fu hao ping tai	0
+客服平台	ke fu ping tai	0
+可观测平台	ke guan ce ping tai	0
+客户端安全	ke hu duan an quan	0
+客户端安全加固	ke hu duan an quan jia gu	0
+客户端安全漏洞	ke hu duan an quan lou dong	0
+客户端安全评估	ke hu duan an quan ping gu	0
+客户端富交互广告接口协议	ke hu duan fu jiao hu guang gao jie kou xie yi	0
+客户端加固	ke hu duan jia gu	0
+客户端开发	ke hu duan kai fa	0
+客户端漏洞	ke hu duan lou dong	0
+客户二次开发	ke hu er ci kai fa	0
+客户负反馈率	ke hu fu fan kui lv	0
+客户化开发	ke hu hua kai fa	0
+客户罗盘	ke hu luo pan	0
+客户旅程图	ke hu lv cheng tu	0
+客户数据中台	ke hu shu ju zhong tai	0
+客户增长	ke hu zeng zhang	0
+可交互时间	ke jiao hu shi jian	0
+客开	ke kai	0
+客开规则平台	ke kai gui ze ping tai	0
+颗粒度	ke li du	0
+可灵	ke ling	0
+可灵大模型	ke ling da mo xing	0
+可视化数据分析工具	ke shi hua shu ju fen xi gong ju	0
+可图	ke tu	0
+可图大模型	ke tu da mo xing	0
+客增	ke zeng	0
+客增任务体系	ke zeng ren wu ti xi	0
+keep	keep	0
+kgfx	kgfx	0
+kilo	kilo	0
+kite	kite	0
+kitfix	kitfix	0
+kle2d	kle2d	0
+空档期	kong dang qi	0
+空调末端	kong tiao mo duan	0
+空调系统	kong tiao xi tong	0
+控制活动	kong zhi huo dong	0
+口径	kou jing	0
+kse2d	kse2d	0
+库存量单位	ku cun liang dan wei	0
+库数据模式定义语言	ku shu ju mo shi ding yi yu yan	0
+跨平台SDK接口自动化框架	kua ping tai SDK jie kou zi dong hua kuang jia	0
+跨站脚本攻击	kua zhan jiao ben gong ji	0
+快TalK	kuai TalK	0
+快币	kuai bi	0
+快币充值	kuai bi chong zhi	0
+快标注	kuai biao zhu	0
+快搭	kuai da	0
+快抖比	kuai dou bi	0
+快解	kuai jie	0
+快接包	kuai jie bao	0
+快接单	kuai jie dan	0
+快解平台	kuai jie ping tai	0
+快链	kuai lian	0
+快流程	kuai liu cheng	0
+快米	kuai mi	0
+快聘	kuai pin	0
+快闪	kuai shan	0
+快审批	kuai shen pi	0
+快手AI对话	kuai shou AI dui hua	0
+快手AI开放平台	kuai shou AI kai fang ping tai	0
+快手API网关	kuai shou API wang guan	0
+快手C++内存膨胀分析工具	kuai shou C++ nei cun peng zhang fen xi gong ju	0
+快手IT骨干网	kuai shou IT gu gan wang	0
+快手Yum源	kuai shou Yum yuan	0
+快手百科	kuai shou bai ke	0
+快手边缘计算服务	kuai shou bian yuan ji suan fu wu	0
+快手测试网	kuai shou ce shi wang	0
+快手差旅平台	kuai shou cha lv ping tai	0
+快手超级品牌日	kuai shou chao ji pin pai ri	0
+快手村BA	kuai shou cun BA	0
+快手大模型	kuai shou da mo xing	0
+快手大语言模型	kuai shou da yu yan mo xing	0
+快手代理商平台	kuai shou dai li shang ping tai	0
+快手代码大模型	kuai shou dai ma da mo xing	0
+快手导师	kuai shou dao shi	0
+快手电签	kuai shou dian qian	0
+快手电商数据	kuai shou dian shang shu ju	0
+快手电商中小商家成长指南	kuai shou dian shang zhong xiao shang jia cheng zhang zhi nan	0
+快手对象存储	kuai shou dui xiang cun chu	0
+快手氛围直播间	kuai shou fen wei zhi bo jian	0
+快手高效开会工作法	kuai shou gao xiao kai hui gong zuo fa	0
+快手公益	kuai shou gong yi	0
+快手公益非遗传习学堂	kuai shou gong yi fei yi chuan xi xue tang	0
+快手官方虚拟主播	kuai shou guan fang xu ni zhu bo	0
+快手广告共享计划	kuai shou guang gao gong xiang ji hua	0
+快手健身房	kuai shou jian shen fang	0
+快手金条	kuai shou jin tiao	0
+快手理发店	kuai shou li fa dian	0
+快手内控	kuai shou nei kong	0
+快手内容中台	kuai shou nei rong zhong tai	0
+快手女娲平台	kuai shou nv wa ping tai	0
+快手派	kuai shou pai	0
+快手品牌号	kuai shou pin pai hao	0
+快手pypi源	kuai shou pypi yuan	0
+快手热点宝	kuai shou re dian bao	0
+快手人像美学质量评估	kuai shou ren xiang mei xue zhi liang ping gu	0
+快手容器云引擎	kuai shou rong qi yun yin qing	0
+快手审核平台	kuai shou shen he ping tai	0
+快手生成式数字人	kuai shou sheng cheng shi shu zi ren	0
+快手生成式数字人开播平台	kuai shou sheng cheng shi shu zi ren kai bo ping tai	0
+快手食堂	kuai shou shi tang	0
+快手数字人工具	kuai shou shu zi ren gong ju	0
+快手挑战赛	kuai shou tiao zhan sai	0
+快手图像压缩格式	kuai shou tu xiang ya suo ge shi	0
+快手推荐平台	kuai shou tui jian ping tai	0
+快手文化	kuai shou wen hua	0
+快手文化价值观	kuai shou wen hua jia zhi guan	0
+快手小程序	kuai shou xiao cheng xu	0
+快手小店	kuai shou xiao dian	0
+快手小卖部	kuai shou xiao mai bu	0
+快手小邮局	kuai shou xiao you ju	0
+快手星球	kuai shou xing qiu	0
+快手应用扫描检测平台	kuai shou ying yong sao miao jian ce ping tai	0
+快手云剪	kuai shou yun jian	0
+快手长连接	kuai shou zhang lian jie	0
+快手智播	kuai shou zhi bo	0
+快手职级	kuai shou zhi ji	0
+快手指数	kuai shou zhi shu	0
+快手中学	kuai shou zhong xue	0
+快手自研文生图大模型	kuai shou zi yan wen sheng tu da mo xing	0
+快说车	kuai shuo che	0
+快start U+训练营	kuai start U+ xun lian ying	0
+快start新生训练营	kuai start xin sheng xun lian ying	0
+快速扩缩容	kuai su kuo suo rong	0
+快速内存溢出分析工具	kuai su nei cun yi chu fen xi gong ju	0
+快速失败	kuai su shi bai	0
+快问卷	kuai wen juan	0
+快享计划	kuai xiang ji hua	0
+快小	kuai xiao	0
+快新星	kuai xin xing	0
+快意	kuai yi	0
+快意大模型	kuai yi da mo xing	0
+快意计划	kuai yi ji hua	0
+快意通	kuai yi tong	0
+快意·快知	kuai yi · kuai zhi	0
+快影	kuai ying	0
+快语	kuai yu	0
+快语商家客服工作台	kuai yu shang jia ke fu gong zuo tai	0
+快云	kuai yun	0
+快知	kuai zhi	0
+快众包	kuai zhong bao	0
+快赚客	kuai zhuan ke	0
+kuaishou-root-pom	kuaishou-root-pom	0
+框架采购	kuang jia cai gou	0
+框架合同	kuang jia he tong	0
+框架类合同	kuang jia lei he tong	0
+框架协议	kuang jia xie yi	0
+旷野图书馆	kuang ye tu shu guan	0
+kubernetes	kubernetes	0
+kui	kui	0
+扩容	kuo rong	0
+扩缩容	kuo suo rong	0
+扩展标记语言	kuo zhan biao ji yu yan	0
+kv数据查询	kv shu ju cha xun	0
+kwai ME	kwai ME	0
+kwai PRO	kwai PRO	0
+拉活	la huo	0
+拉活激励广告	la huo ji li guang gao	0
+拉流	la liu	0
+拉取请求	la qu qing qiu	0
+拉新	la xin	0
+莱安娜	lai an na	0
+蓝V	lan V	0
+蓝V服务号	lan V fu wu hao	0
+蓝海	lan hai	0
+揽收超时申诉	lan shou chao shi shen su	0
+劳动关系	lao dong guan xi	0
+劳动合同	lao dong he tong	0
+劳动合同续签	lao dong he tong xu qian	0
+劳动纠纷	lao dong jiu fen	0
+劳动者	lao dong zhe	0
+劳动争议	lao dong zheng yi	0
+劳动仲裁	lao dong zhong cai	0
+劳务关系	lao wu guan xi	0
+劳务派遣	lao wu pai qian	0
+劳资纠纷	lao zi jiu fen	0
+乐高	le gao	0
+乐高系统	le gao xi tong	0
+类SQL API	lei SQL API	0
+类SQL查询	lei SQL cha xun	0
+雷达	lei da	0
+冷机	leng ji	0
+冷启	leng qi	0
+冷启动	leng qi dong	0
+冷启视频	leng qi shi pin	0
+冷却塔	leng que ta	0
+冷塔	leng ta	0
+利安闻	li an wen	0
+理发店	li fa dian	0
+李好鸭	li hao ya	0
+离线包	li xian bao	0
+离线开发	li xian kai fa	0
+理想家签约主播	li xiang jia qian yue zhu bo	0
+理想中心	li xiang zhong xin	0
+离职	li zhi	0
+离职证明	li zhi zheng ming	0
+离职转移	li zhi zhuan yi	0
+连WiFi	lian WiFi	0
+联调分支	lian diao fen zhi	0
+联合建模	lian he jian mo	0
+联机分析处理	lian ji fen xi chu li	0
+联机事务处理	lian ji shi wu chu li	0
+链路扩缩容	lian lu kuo suo rong	0
+链路转化	lian lu zhuan hua	0
+联盟千鸟	lian meng qian niao	0
+连网	lian wang	0
+两方	liang fang	0
+亮证亮照	liang zheng liang zhao	0
+聊天机器人	liao tian ji qi ren	0
+猎头	lie tou	0
+临时氛围直播间	lin shi fen wei zhi bo jian	0
+临时借用	lin shi jie yong	0
+灵创	ling chuang	0
+零代码运营平台	ling dai ma yun ying ping tai	0
+领导力	ling dao li	0
+灵构	ling gou	0
+领航者平台	ling hang zhe ping tai	0
+灵眸	ling mou	0
+灵眸 aiAgent	ling mou  aiAgent	0
+灵眸机器人	ling mou ji qi ren	0
+领域目录	ling yu mu lu	0
+领域驱动设计	ling yu qu dong she ji	0
+领域特定语言	ling yu te ding yu yan	0
+流标	liu biao	0
+流产假	liu chan jia	0
+流程开发工具	liu cheng kai fa gong ju	0
+流程中心	liu cheng zhong xin	0
+留存	liu cun	0
+浏览器爬虫	liu lan qi pa chong	0
+浏览器指纹	liu lan qi zhi wen	0
+流量白盒化	liu liang bai he hua	0
+流量回放	liu liang hui fang	0
+流量劫持	liu liang jie chi	0
+流量接入运营平台	liu liang jie ru yun ying ping tai	0
+流量录制	liu liang lu zhi	0
+流量栅栏	liu liang zha lan	0
+流量政策	liu liang zheng ce	0
+流量中台	liu liang zhong tai	0
+流量助推	liu liang zhu tui	0
+流名	liu ming	0
+流批一体	liu pi yi ti	0
+流失率	liu shi lv	0
+流水线	liu shui xian	0
+留学工作居住证新办	liu xue gong zuo ju zhu zheng xin ban	0
+龙标	long biao	0
+lottie	lottie	0
+漏洞利用	lou dong li yong	0
+漏斗分析	lou dou fen xi	0
+鲁棒性	lu bang xing	0
+路径分析	lu jing fen xi	0
+路径染色	lu jing ran se	0
+路径追踪	lu jing zhui zong	0
+路易吉	lu yi ji	0
+录音制品	lu yin zhi pin	0
+萝卜面试	luo bo mian shi	0
+落地页	luo di ye	0
+落户随调	luo hu sui diao	0
+落户随迁	luo hu sui qian	0
+罗盘合同	luo pan he tong	0
+lux	lux	0
+履约保函	lv yue bao han	0
+马里奥	ma li ao	0
+马良	ma liang	0
+码灵	ma ling	0
+码率	ma lv	0
+马太效应	ma tai xiao ying	0
+卖场旗舰店	mai chang qi jian dian	0
+埋点	mai dian	0
+埋点SDK	mai dian SDK	0
+埋点测试工具	mai dian ce shi gong ju	0
+卖家服务评级系统	mai jia fu wu ping ji xi tong	0
+买样后返	mai yang hou fan	0
+漫展王者	man zhan wang zhe	0
+芒果	mang guo	0
+芒果姐	mang guo jie	0
+盲盒规范	mang he gui fan	0
+冒烟	mao yan	0
+冒烟测试	mao yan ce shi	0
+matrix管理系统	matrix guan li xi tong	0
+每次点击成本	mei ci dian ji cheng ben	0
+每次点击付费	mei ci dian ji fu fei	0
+每次动作成本	mei ci dong zuo cheng ben	0
+每次互动付费	mei ci hu dong fu fei	0
+每订单用户平均咨询量	mei ding dan yong hu ping jun zi xun liang	0
+每动销商家平均咨询量	mei dong xiao shang jia ping jun zi xun liang	0
+每分钟处理的查询数量	mei fen zhong chu li de cha xun shu liang	0
+每付费用户平均收入	mei fu fei yong hu ping jun shou ru	0
+每秒查询率	mei miao cha xun lv	0
+每条线索收费（Cost per lead）	mei tiao xian suo shou fei （Cost per lead）	0
+美颜SDK	mei yan SDK	0
+美颜技术中心	mei yan ji shu zhong xin	0
+每用户平均收入	mei yong hu ping jun shou ru	0
+媒资	mei zi	0
+门禁卡	men jin ka	0
+蜜罐	mi guan	0
+蜜罐技术	mi guan ji shu	0
+民法典	min fa dian	0
+敏感个人信息	min gan ge ren xin xi	0
+名片	ming pian	0
+minimum viable product	minimum viable product	0
+模版平台	mo ban ping tai	0
+模版取数	mo ban qu shu	0
+模版市场	mo ban shi chang	0
+魔表	mo biao	0
+魔表挑战赛	mo biao tiao zhan sai	0
+魔法表情	mo fa biao qing	0
+魔改	mo gai	0
+摹客	mo ke	0
+模块化编程	mo kuai hua bian cheng	0
+魔力建站	mo li jian zhan	0
+模型上下文协议	mo xing shang xia wen xie yi	0
+mock工具	mock gong ju	0
+mock平台	mock ping tai	0
+monkey	monkey	0
+mqadmin	mqadmin	0
+模板API	mu ban API	0
+模板查询	mu ban cha xun	0
+模板接口	mu ban jie kou	0
+模板平台	mu ban ping tai	0
+目标受众实验	mu biao shou zhong shi yan	0
+目标与关键成果	mu biao yu guan jian cheng guo	0
+木兰	mu lan	0
+木马	mu ma	0
+那艺娜	na yi na	0
+nacos	nacos	0
+内部NPM	nei bu NPM	0
+内部环境	nei bu huan jing	0
+内部看数据	nei bu kan shu ju	0
+内部推荐	nei bu tui jian	0
+内存堆分析工具	nei cun dui fen xi gong ju	0
+内存膨胀	nei cun peng zhang	0
+内存泄漏	nei cun xie lou	0
+内存溢出	nei cun yi chu	0
+内控	nei kong	0
+内控合规管理	nei kong he gui guan li	0
+内容播放数	nei rong bo fang shu	0
+内容电商	nei rong dian shang	0
+内容分发网络	nei rong fen fa wang luo	0
+内容审核	nei rong shen he	0
+内容中台	nei rong zhong tai	0
+内审	nei shen	0
+内推	nei tui	0
+内循环	nei xun huan	0
+内循环广告投放平台	nei xun huan guang gao tou fang ping tai	0
+能量券	neng liang quan	0
+匿名化	ni ming hua	0
+年度汇算	nian du hui suan	0
+年度汇算清缴	nian du hui suan qing jiao	0
+年度经常性收⼊	nian du jing chang xing shou ⼊	0
+年度框架协议	nian du kuang jia xie yi	0
+年度盘点	nian du pan dian	0
+年度体检	nian du ti jian	0
+年假	nian jia	0
+年框	nian kuang	0
+年休假	nian xiu jia	0
+年终盘点	nian zhong pan dian	0
+暖通系统	nuan tong xi tong	0
+诺亚	nuo ya	0
+诺亚系统	nuo ya xi tong	0
+女娲	nv wa	0
+女娲平台	nv wa ping tai	0
+octr	octr	0
+耦合	ou he	0
+p value	p value	0
+p995	p995	0
+派派	pai pai	0
+排序模型	pai xu mo xing	0
+排障工匠	pai zhang gong jiang	0
+排障平台	pai zhang ping tai	0
+潘多拉	pan duo la	0
+潘多拉低代码平台	pan duo la di dai ma ping tai	0
+判客	pan ke	0
+旁站攻击	pang zhan gong ji	0
+pb文件	pb wen jian	0
+pd	pd	0
+peers	peers	0
+陪产假	pei chan jia	0
+赔偿	pei chang	0
+配电列头柜	pei dian lie tou gui	0
+赔付申诉	pei fu shen su	0
+陪跑	pei pao	0
+陪跑计划	pei pao ji hua	0
+period of probation	period of probation	0
+批量合同	pi liang he tong	0
+批量合同流程	pi liang he tong liu cheng	0
+偏好差异诊断	pian hao cha yi zhen duan	0
+票圈	piao quan	0
+品牌5R人群资产	pin pai 5R ren qun zi chan	0
+品牌号	pin pai hao	0
+品牌授权	pin pai shou quan	0
+品牌私有建模	pin pai si you jian mo	0
+品牌业务中心	pin pai ye wu zhong xin	0
+品退率	pin tui lv	0
+品质退货率	pin zhi tui huo lv	0
+品质退款发起率	pin zhi tui kuan fa qi lv	0
+评标	ping biao	0
+平均1VN	ping jun 1VN	0
+平均处理时间	ping jun chu li shi jian	0
+平均订单价值	ping jun ding dan jia zhi	0
+平均故障检测时间	ping jun gu zhang jian ce shi jian	0
+平均确认时间	ping jun que ren shi jian	0
+平均同时在线用户数	ping jun tong shi zai xian yong hu shu	0
+评论跑马灯	ping lun pao ma deng	0
+平台即服务	ping tai ji fu wu	0
+破产清算	po chan qing suan	0
+破晓	po xiao	0
+破晓平台	po xiao ping tai	0
+pooling	pooling	0
+prompt	prompt	0
+proto协议	proto xie yi	0
+pull streaming	pull streaming	0
+pypi源	pypi yuan	0
+python制品	python zhi pin	0
+旗舰店	qi jian dian	0
+其他类合同	qi ta lei he tong	0
+其他类合同流程	qi ta lei he tong liu cheng	0
+企微	qi wei	0
+企微工作台	qi wei gong zuo tai	0
+企业安全运营自动化	qi ye an quan yun ying zi dong hua	0
+企业风险管理	qi ye feng xian guan li	0
+企业社会责任	qi ye she hui ze ren	0
+企业微信	qi ye wei xin	0
+企业文化中心	qi ye wen hua zhong xin	0
+企业资源规划	qi ye zi yuan gui hua	0
+企业资源计划	qi ye zi yuan ji hua	0
+千次曝光成交订单数	qian ci bao guang cheng jiao ding dan shu	0
+千次曝光收益	qian ci bao guang shou yi	0
+千次曝光营收	qian ci bao guang ying shou	0
+千次展示成本	qian ci zhan shi cheng ben	0
+前端工程度量平台	qian duan gong cheng du liang ping tai	0
+前端工程诊断平台	qian duan gong cheng zhen duan ping tai	0
+前端监控平台	qian duan jian kong ping tai	0
+前端开发联调集成工具	qian duan kai fa lian diao ji cheng gong ju	0
+前端一站式研发平台	qian duan yi zhan shi yan fa ping tai	0
+潜龙	qian long	0
+潜龙计划	qian long ji hua	0
+千鸟	qian niao	0
+千禧世代	qian xi shi dai	0
+前序实验	qian xu shi yan	0
+前瞻性信息	qian zhan xing xin xi	0
+抢榜	qiang bang	0
+强化学习	qiang hua xue xi	0
+强制二选一	qiang zhi er xuan yi	0
+强制退出率	qiang zhi tui chu lv	0
+亲密关系	qin mi guan xi	0
+轻量级虚拟化	qing liang ji xu ni hua	0
+青鸾	qing luan	0
+青鸾平台	qing luan ping tai	0
+青鸟平台	qing niao ping tai	0
+请求合并代码	qing qiu he bing dai ma	0
+轻雀文档	qing que wen dang	0
+青少年模式	qing shao nian mo shi	0
+轻数据管理平台	qing shu ju guan li ping tai	0
+青藤	qing teng	0
+去标识化	qu biao zhi hua	0
+驱动打印	qu dong da yin	0
+取件	qu jian	0
+趋势品类	qu shi pin lei	0
+取数	qu shu	0
+去中心化	qu zhong xin hua	0
+曲作品	qu zuo pin	0
+全景视频	quan jing shi pin	0
+全局挂件管理平台	quan ju gua jian guan li ping tai	0
+全链路压测	quan lian lu ya ce	0
+全量受众实验	quan liang shou zhong shi yan	0
+全民挑战	quan min tiao zhan	0
+圈品	quan pin	0
+圈人	quan ren	0
+圈人群包	quan ren qun bao	0
+权限中台	quan xian zhong tai	0
+圈选系统	quan xuan xi tong	0
+全域数据资产平台	quan yu shu ju zi chan ping tai	0
+全站半互斥	quan zhan ban hu chi	0
+全站全互斥	quan zhan quan hu chi	0
+确认收⼊	que ren shou ⼊	0
+query sug	query sug	0
+群话题	qun hua ti	0
+染色	ran se	0
+热爱的角落	re ai de jiao luo	0
+热点宝	re dian bao	0
+热点自动发现	re dian zi dong fa xian	0
+热点自动发现组件	re dian zi dong fa xian zu jian	0
+热度转码	re du zhuan ma	0
+热线	re xian	0
+热修	re xiu	0
+热重载	re zhong zai	0
+realshow	realshow	0
+人才发展小百科	ren cai fa zhan xiao bai ke	0
+人间后视镜	ren jian hou shi jing	0
+人力服务许可证	ren li fu wu xu ke zheng	0
+人力资源办公室	ren li zi yuan ban gong shi	0
+人力资源服务许可证	ren li zi yuan fu wu xu ke zheng	0
+人力资源共享服务中心	ren li zi yuan gong xiang fu wu zhong xin	0
+人力资源证	ren li zi yuan zheng	0
+人力资质	ren li zi zhi	0
+人群包实验	ren qun bao shi yan	0
+人群重合度分析	ren qun chong he du fen xi	0
+人群画像	ren qun hua xiang	0
+人群圈选	ren qun quan xuan	0
+人事档案	ren shi dang an	0
+任务调度平台	ren wu diao du ping tai	0
+任务管理平台	ren wu guan li ping tai	0
+任务平台	ren wu ping tai	0
+人像美化	ren xiang mei hua	0
+日常领用	ri chang ling yong	0
+日活	ri huo	0
+日活跃客户数	ri huo yue ke hu shu	0
+日活跃用户数	ri huo yue yong hu shu	0
+日新增用户	ri xin zeng yong hu	0
+rocdebug	rocdebug	0
+容量平台	rong liang ping tai	0
+容器部署	rong qi bu shu	0
+容器化	rong qi hua	0
+容器云运维平台	rong qi yun yun wei ping tai	0
+融通高科	rong tong gao ke	0
+荣誉体系	rong yu ti xi	0
+rpc服务mock	rpc fu wu mock	0
+入库	ru ku	0
+入侵防御系统	ru qin fang yu xi tong	0
+入职	ru zhi	0
+入住指南	ru zhu zhi nan	0
+软编码	ruan bian ma	0
+软件即服务	ruan jian ji fu wu	0
+软件开源合规	ruan jian kai yuan he gui	0
+软件网损Jon	ruan jian wang sun Jon	0
+软解	ruan jie	0
+软硬件资产管理	ruan ying jian zi chan guan li	0
+弱电系统	ruo dian xi tong	0
+弱口令	ruo kou ling	0
+三段式	san duan shi	0
+三方App	san fang App	0
+三方包	san fang bao	0
+三方协议	san fang xie yi	0
+三流一致	san liu yi zhi	0
+三梦	san meng	0
+三梦奇缘	san meng qi yuan	0
+三期女员工	san qi nv yuan gong	0
+三无	san wu	0
+三无产品	san wu chan pin	0
+丧假	sang jia	0
+扫码	sao ma	0
+扫码打印	sao ma da yin	0
+扫描	sao miao	0
+sentry	sentry	0
+service id	service id	0
+沙漏系统	sha lou xi tong	0
+shader	shader	0
+闪退率	shan tui lv	0
+商标	shang biao	0
+商标侵权	shang biao qin quan	0
+商标授权	shang biao shou quan	0
+商冲	shang chong	0
+上传链路	shang chuan lian lu	0
+上海星联	shang hai xing lian	0
+上海星联职场	shang hai xing lian zhi chang	0
+商家成长特训营	shang jia cheng zhang te xun ying	0
+商家成长指南	shang jia cheng zhang zhi nan	0
+商家看数据	shang jia kan shu ju	0
+商家运营工具	shang jia yun ying gong ju	0
+商家自动诊断工具	shang jia zi dong zhen duan gong ju	0
+商品交易总额	shang pin jiao yi zong e	0
+商审平台	shang shen ping tai	0
+商务标	shang wu biao	0
+商业保险	shang ye bao xian	0
+商业化OLAP多维分析工具	shang ye hua OLAP duo wei fen xi gong ju	0
+商业化SQL查询引擎	shang ye hua SQL cha xun yin qing	0
+商业化UPM	shang ye hua UPM	0
+商业化场景化诊断工具	shang ye hua chang jing hua zhen duan gong ju	0
+商业化合同系统	shang ye hua he tong xi tong	0
+商业化可观测，	shang ye hua ke guan ce ，	0
+商业化权限平台	shang ye hua quan xian ping tai	0
+商业化设计插件	shang ye hua she ji cha jian	0
+商业化审核平台	shang ye hua shen he ping tai	0
+商业化数据分析平台	shang ye hua shu ju fen xi ping tai	0
+商业化物料体系	shang ye hua wu liao ti xi	0
+商业化小灵通	shang ye hua xiao ling tong	0
+商业化运营数据分析平台	shang ye hua yun ying shu ju fen xi ping tai	0
+商业化整体活跃素材库	shang ye hua zheng ti huo yue su cai ku	0
+商业利益冲突	shang ye li yi chong tu	0
+商业秘密	shang ye mi mi	0
+商业私信	shang ye si xin	0
+商用字体	shang yong zi ti	0
+sharp-ui-next	sharp-ui-next	0
+社保	she bao	0
+社保基数	she bao ji shu	0
+社保缴费比例	she bao jiao fei bi li	0
+社保缴费基数（社保基数）	she bao jiao fei ji shu （ she bao ji shu ）	0
+社保卡	she bao ka	0
+社保足额缴纳	she bao zu e jiao na	0
+设备报失	she bei bao shi	0
+设备报修	she bei bao xiu	0
+设备丢失	she bei diu shi	0
+设备归还	she bei gui huan	0
+设备id	she bei id	0
+社工	she gong	0
+社工攻击	she gong gong ji	0
+社会保险	she hui bao xian	0
+社会工程学	she hui gong cheng xue	0
+社会工程学攻击	she hui gong cheng xue gong ji	0
+社会公共利益	she hui gong gong li yi	0
+社会性网络服务	she hui xing wang luo fu wu	0
+社交网站	she jiao wang zhan	0
+社科数据质量平台	she ke shu ju zhi liang ping tai	0
+社招	she zhao	0
+深度树检索模型	shen du shu jian suo mo xing	0
+神盾	shen dun	0
+审核委员会	shen he wei yuan hui	0
+审核助手	shen he zhu shou	0
+神机	shen ji	0
+审计	shen ji	0
+神机策略平台	shen ji ce lve ping tai	0
+神机万象	shen ji wan xiang	0
+申请微信公众号	shen qing wei xin gong zhong hao	0
+申请微信小程序	shen qing wei xin xiao cheng xu	0
+申请显示屏	shen qing xian shi ping	0
+申请显示屏幕	shen qing xian shi ping mu	0
+申请显示器	shen qing xian shi qi	0
+申诉中心	shen su zhong xin	0
+渗透测试	shen tou ce shi	0
+深圳百度大厦职场	shen zhen bai du da sha zhi chang	0
+生成式AI	sheng cheng shi AI	0
+生成式人工智能	sheng cheng shi ren gong zhi neng	0
+生命周期	sheng ming zhou qi	0
+生命周期总价值	sheng ming zhou qi zong jia zhi	0
+胜任力模型	sheng ren li mo xing	0
+胜任能力模型	sheng ren neng li mo xing	0
+胜任素质模型	sheng ren su zhi mo xing	0
+生意通	sheng yi tong	0
+剩余合规风险	sheng yu he gui feng xian	0
+生育津贴	sheng yu jin tie	0
+生育礼金	sheng yu li jin	0
+实发工资	shi fa gong zi	0
+事假	shi jia	0
+世界	shi jie	0
+视频编解码工具	shi pin bian jie ma gong ju	0
+视频播放失败	shi pin bo fang shi bai	0
+视频播放数	shi pin bo fang shu	0
+食品经营许可证	shi pin jing ying xu ke zheng	0
+视频流量排查	shi pin liu liang pai cha	0
+视频审核/内容评级编辑	shi pin shen he / nei rong ping ji bian ji	0
+视频退出诊断	shi pin tui chu zhen duan	0
+食品消电	shi pin xiao dian	0
+食品消电业务中心	shi pin xiao dian ye wu zhong xin	0
+实时开发平台	shi shi kai fa ping tai	0
+食堂	shi tang	0
+视听证	shi ting zheng	0
+实习生	shi xi sheng	0
+实习生指南	shi xi sheng zhi nan	0
+实习证明	shi xi zheng ming	0
+失业保险	shi ye bao xian	0
+试用期	shi yong qi	0
+ship	ship	0
+首次有效绘制	shou ci you xiao hui zhi	0
+售后策略中心	shou hou ce lve zhong xin	0
+售后申诉	shou hou shen su	0
+收货地址定位	shou huo di zhi ding wei	0
+手机借用	shou ji jie yong	0
+售前售后服务工程师	shou qian shou hou fu wu gong cheng shi	0
+收入合同	shou ru he tong	0
+收入类合同	shou ru lei he tong	0
+收入类合同流程	shou ru lei he tong liu cheng	0
+收入证明	shou ru zheng ming	0
+首席客户官	shou xi ke hu guan	0
+守夜人	shou ye ren	0
+守夜人平台	shou ye ren ping tai	0
+数据保护协议	shu ju bao hu xie yi	0
+数据标准化	shu ju biao zhun hua	0
+数据采集	shu ju cai ji	0
+数据仓库	shu ju cang ku	0
+数据产品经理	shu ju chan pin jing li	0
+数据超市	shu ju chao shi	0
+数据出境	shu ju chu jing	0
+数据传输平台	shu ju chuan shu ping tai	0
+数据地图	shu ju di tu	0
+数据调度	shu ju diao du	0
+数据服务化	shu ju fu wu hua	0
+数据服务热线	shu ju fu wu re xian	0
+数据共享	shu ju gong xiang	0
+数据构造	shu ju gou zao	0
+数据构造平台	shu ju gou zao ping tai	0
+数据管理	shu ju guan li	0
+数据管理平台	shu ju guan li ping tai	0
+数据合规	shu ju he gui	0
+数据湖	shu ju hu	0
+数据集	shu ju ji	0
+数据集成	shu ju ji cheng	0
+数据集成平台	shu ju ji cheng ping tai	0
+数据集市	shu ju ji shi	0
+数据架构	shu ju jia gou	0
+数据建模	shu ju jian mo	0
+数据交互	shu ju jiao hu	0
+数据接入	shu ju jie ru	0
+数据可视化	shu ju ke shi hua	0
+数据流	shu ju liu	0
+数据明细层	shu ju ming xi ceng	0
+数据模拟	shu ju mo ni	0
+数据模型	shu ju mo xing	0
+数据配送P2P	shu ju pei song P2P	0
+数据清洗	shu ju qing xi	0
+数据权限中心	shu ju quan xian zhong xin	0
+数据热线	shu ju re xian	0
+数据任务托管平台	shu ju ren wu tuo guan ping tai	0
+数据特征	shu ju te zheng	0
+数据同步	shu ju tong bu	0
+数据同步平台	shu ju tong bu ping tai	0
+数据透视	shu ju tou shi	0
+数据外传	shu ju wai zhuan	0
+数据应用	shu ju ying yong	0
+数据预处理	shu ju yu chu li	0
+数据质检	shu ju zhi jian	0
+数据治理	shu ju zhi li	0
+数据治理平台	shu ju zhi li ping tai	0
+数据质量	shu ju zhi liang	0
+数据质量中心	shu ju zhi liang zhong xin	0
+数据准备	shu ju zhun bei	0
+数据资产	shu ju zi chan	0
+数据总线	shu ju zong xian	0
+数码科技	shu ma ke ji	0
+数码科技广场	shu ma ke ji guang chang	0
+数图	shu tu	0
+数图引擎	shu tu yin qing	0
+数智化	shu zhi hua	0
+数字客服	shu zi ke fu	0
+数字新媒体产业	shu zi xin mei ti chan ye	0
+数字员工/智能客服	shu zi yuan gong / zhi neng ke fu	0
+刷卡	shua ka	0
+双重差分	shuang chong cha fen	0
+双重差分分析	shuang chong cha fen fen xi	0
+双列	shuang lie	0
+双列发现页	shuang lie fa xian ye	0
+双生劫	shuang sheng jie	0
+双写	shuang xie	0
+水泵	shui beng	0
+水处理设备	shui chu li she bei	0
+水冷冷冻水空调系统	shui leng leng dong shui kong tiao xi tong	0
+水冷冷水机组	shui leng leng shui ji zu	0
+水神波塞娟	shui shen bo sai juan	0
+私服	si fu	0
+司庆	si qing	0
+私有化部署	si you hua bu shu	0
+私有建模	si you jian mo	0
+私有模型	si you mo xing	0
+私域流量	si yu liu liang	0
+搜索-1tab	sou suo -1tab	0
+搜索Debug平台	sou suo Debug ping tai	0
+搜索彩蛋	sou suo cai dan	0
+搜索词组	sou suo ci zu	0
+搜索洞察后台	sou suo dong cha hou tai	0
+搜索洞察平台	sou suo dong cha ping tai	0
+搜索氛围	sou suo fen wei	0
+搜索分析平台	sou suo fen xi ping tai	0
+搜索结果落地页	sou suo jie guo luo di ye	0
+搜索结果页	sou suo jie guo ye	0
+搜索结果页-1tab	sou suo jie guo ye -1tab	0
+搜索结果页资源位	sou suo jie guo ye zi yuan wei	0
+搜索引擎营销	sou suo yin qing ying xiao	0
+搜索引擎优化	sou suo yin qing you hua	0
+搜索直投	sou suo zhi tou	0
+搜索中台	sou suo zhong tai	0
+搜索资源位	sou suo zi yuan wei	0
+staging排障	staging pai zhang	0
+素材灯塔	su cai deng ta	0
+素材模板	su cai mu ban	0
+诉前禁令	su qian jin ling	0
+溯源反制	su yuan fan zhi	0
+随机森林	sui ji sen lin	0
+swing	swing	0
+sync	sync	0
+t-test	t-test	0
+态势感知	tai shi gan zhi	0
+贪心算法	tan xin suan fa	0
+弹性福利	tan xing fu li	0
+弹性内核	tan xing nei he	0
+套户	tao hu	0
+逃逸	tao yi	0
+tbd / to be determind	tbd / to be determind	0
+特效开放平台	te xiao kai fang ping tai	0
+特征工程	te zheng gong cheng	0
+特征选择	te zheng xuan ze	0
+特征中心	te zheng zhong xin	0
+提测	ti ce	0
+提测准出	ti ce zhun chu	0
+提测准入	ti ce zhun ru	0
+提高频率	ti gao pin lv	0
+体检	ti jian	0
+提交测试	ti jiao ce shi	0
+提频	ti pin	0
+提权	ti quan	0
+提示词	ti shi ci	0
+体育赛事转播权	ti yu sai shi zhuan bo quan	0
+天财	tian cai	0
+天策	tian ce	0
+天窗率	tian chuang lv	0
+天工	tian gong	0
+天工-盖亚	tian gong - gai ya	0
+天工-离线开发	tian gong - li xian kai fa	0
+天工-实时开发	tian gong - shi shi kai fa	0
+天工-数据地图	tian gong - shu ju di tu	0
+天工-数据同步	tian gong - shu ju tong bu	0
+天工实时开发	tian gong shi shi kai fa	0
+天工系统	tian gong xi tong	0
+天河	tian he	0
+天玑	tian ji	0
+天玑-天算	tian ji - tian suan	0
+天玑-星盒	tian ji - xing he	0
+天玑商业化数据平台	tian ji shang ye hua shu ju ping tai	0
+天津新城市中心	tian jin xin cheng shi zhong xin	0
+天津新城市中心职场	tian jin xin cheng shi zhong xin zhi chang	0
+天启	tian qi	0
+天琴	tian qin	0
+天琴容器部署	tian qin rong qi bu shu	0
+天穹	tian qiong	0
+天穹平台	tian qiong ping tai	0
+天权	tian quan	0
+天狮	tian shi	0
+天狮策略	tian shi ce lve	0
+天狮策略包	tian shi ce lve bao	0
+天狮策略diff	tian shi ce lve diff	0
+天狮策略节点	tian shi ce lve jie dian	0
+天狮策略平台	tian shi ce lve ping tai	0
+天狮策略review	tian shi ce lve review	0
+天狮策略熔断	tian shi ce lve rong duan	0
+天狮策略树	tian shi ce lve shu	0
+天守	tian shou	0
+天守阁	tian shou ge	0
+天枢	tian shu	0
+天问	tian wen	0
+天问平台	tian wen ping tai	0
+天问日志	tian wen ri zhi	0
+天演	tian yan	0
+天演平台	tian yan ping tai	0
+天阅西山	tian yue xi shan	0
+跳板机	tiao ban ji	0
+条件随机场	tiao jian sui ji chang	0
+调控平台	tiao kong ping tai	0
+挑战赛	tiao zhan sai	0
+铁厂	tie chang	0
+铁厂图书馆	tie chang tu shu guan	0
+铁拳	tie quan	0
+停工留薪期	ting gong liu xin qi	0
+同比变动率	tong bi bian dong lv	0
+通道	tong dao	0
+统计功效	tong ji gong xiao	0
+通途	tong tu	0
+统一ID	tong yi ID	0
+通用力	tong yong li	0
+通用协议	tong yong xie yi	0
+通知-删除规则	tong zhi - shan chu gui ze	0
+通知删除	tong zhi shan chu	0
+通知与删除	tong zhi yu shan chu	0
+通知与移除	tong zhi yu yi chu	0
+topk审	topk shen	0
+投标	tou biao	0
+投入产出比	tou ru chan chu bi	0
+偷塔	tou ta	0
+投资回报率	tou zi hui bao lv	0
+trademark	trademark	0
+图床	tu chuang	0
+图片弹幕	tu pian dan mu	0
+图片端到端	tu pian duan dao duan	0
+图片端到端解决方案	tu pian duan dao duan jie jue fang an	0
+图片格式	tu pian ge shi	0
+图片首屏耗时	tu pian shou ping hao shi	0
+图片天窗率	tu pian tian chuang lv	0
+图片显示耗时	tu pian xian shi hao shi	0
+图片展示耗时	tu pian zhan shi hao shi	0
+图生视频	tu sheng shi pin	0
+图形用户接口	tu xing yong hu jie kou	0
+团餐	tuan can	0
+团餐配送	tuan can pei song	0
+团长	tuan zhang	0
+退出诊断	tui chu zhen duan	0
+退货第二阶段	tui huo di er jie duan	0
+退货第一阶段	tui huo di yi jie duan	0
+退货二阶段	tui huo er jie duan	0
+退货退款第二阶段	tui huo tui kuan di er jie duan	0
+退货退款第一阶段	tui huo tui kuan di yi jie duan	0
+退货退款二阶段	tui huo tui kuan er jie duan	0
+退货退款一阶段	tui huo tui kuan yi jie duan	0
+退货一阶段	tui huo yi jie duan	0
+推荐池	tui jian chi	0
+推荐数据平台	tui jian shu ju ping tai	0
+推荐系统白盒化	tui jian xi tong bai he hua	0
+推流	tui liu	0
+推流域名	tui liu yu ming	0
+uaa	uaa	0
+ud	ud	0
+universal link	universal link	0
+unpkg	unpkg	0
+unwind	unwind	0
+value optimization	value optimization	0
+vibe coding	vibe coding	0
+violative view rate	violative view rate	0
+vse	vse	0
+vvleakage	vvleakage	0
+外包借用	wai bao jie yong	0
+外包领用	wai bao ling yong	0
+外包申请	wai bao shen qing	0
+外部平台账号/外部平台快手主体账号	wai bu ping tai zhang hao / wai bu ping tai kuai shou zhu ti zhang hao	0
+外出办公	wai chu ban gong	0
+外挂	wai gua	0
+万化	wan hua	0
+万集	wan ji	0
+万集空间	wan ji kong jian	0
+万家灯火	wan jia deng huo	0
+万山区产业园	wan shan qu chan ye yuan	0
+万维表格	wan wei biao ge	0
+万相	wan xiang	0
+万象合弦	wan xiang he xian	0
+万相平台	wan xiang ping tai	0
+网红机构	wang hong ji gou	0
+网络不正当竞争	wang luo bu zheng dang jing zheng	0
+网络连接	wang luo lian jie	0
+网络爬虫	wang luo pa chong	0
+网络侵权	wang luo qin quan	0
+网络文化经营许可证	wang luo wen hua jing ying xu ke zheng	0
+网络遗产	wang luo yi chan	0
+网站ICP备案	wang zhan ICP bei an	0
+维度建模	wei du jian mo	0
+微短剧	wei duan ju	0
+违法解除	wei fa jie chu	0
+微服务	wei fu wu	0
+微服务高可用平台	wei fu wu gao ke yong ping tai	0
+微光计划	wei guang ji hua	0
+微前端	wei qian duan	0
+威胁情报	wei xie qing bao	0
+违约	wei yue	0
+违约风险暴露	wei yue feng xian bao lu	0
+违约概率	wei yue gai lv	0
+违约损失率	wei yue sun shi lv	0
+位置1分钟更新率	wei zhi 1 fen zhong geng xin lv	0
+位置15分钟更新率	wei zhi 15 fen zhong geng xin lv	0
+位置15min更新率	wei zhi 15min geng xin lv	0
+位置1min更新率	wei zhi 1min geng xin lv	0
+位置5分钟更新率	wei zhi 5 fen zhong geng xin lv	0
+位置5min更新率	wei zhi 5min geng xin lv	0
+位置日更新率	wei zhi ri geng xin lv	0
+问答	wen da	0
+文档插件	wen dang cha jian	0
+稳定性平台	wen ding xing ping tai	0
+稳定性治理平台	wen ding xing zhi li ping tai	0
+闻会军	wen hui jun	0
+闻神	wen shen	0
+文生视频	wen sheng shi pin	0
+文生图大模型/可图文生图大模型	wen sheng tu da mo xing / ke tu wen sheng tu da mo xing	0
+稳投	wen tou	0
+无固定期限	wu gu ding qi xian	0
+无固定期限劳动合同	wu gu ding qi xian lao dong he tong	0
+武汉融创智谷	wu han rong chuang zhi gu	0
+武汉印力中心	wu han yin li zhong xin	0
+武汉印力中心职场	wu han yin li zhong xin zhi chang	0
+无极	wu ji	0
+无卡认证	wu ka ren zheng	0
+物理AZ	wu li AZ	0
+物理机部署	wu li ji bu shu	0
+物料体系	wu liao ti xi	0
+五险一金	wu xian yi jin	0
+无效点击	wu xiao dian ji	0
+无效滑动	wu xiao hua dong	0
+无效交互	wu xiao jiao hu	0
+溪流湖	xi liu hu	0
+系统测试	xi tong ce shi	0
+系统软件	xi tong ruan jian	0
+系统诊断	xi tong zhen duan	0
+线上服务变更规范	xian shang fu wu bian geng gui fan	0
+线上环境	xian shang huan jing	0
+线上回归测试环境	xian shang hui gui ce shi huan jing	0
+线上可观测	xian shang ke guan ce	0
+显示器借用	xian shi qi jie yong	0
+线索 CRM	xian suo  CRM	0
+线索CRM	xian suo CRM	0
+线索全自动广告	xian suo quan zi dong guang gao	0
+线下环境	xian xia huan jing	0
+线下排障	xian xia pai zhang	0
+闲置交易	xian zhi jiao yi	0
+先知平台	xian zhi ping tai	0
+闲置群	xian zhi qun	0
+闲置转移	xian zhi zhuan yi	0
+显著性水平	xian zhu xing shui ping	0
+项目采购	xiang mu cai gou	0
+项目经理	xiang mu jing li	0
+项目类合同	xiang mu lei he tong	0
+相亲	xiang qin	0
+向日葵	xiang ri kui	0
+向日葵远程软件	xiang ri kui yuan cheng ruan jian	0
+销帮帮	xiao bang bang	0
+销帮帮值班号	xiao bang bang zhi ban hao	0
+小程序部署	xiao cheng xu bu shu	0
+小二看达人数据	xiao er kan da ren shu ju	0
+小二看货主数据	xiao er kan huo zhu shu ju	0
+小二看商家数据	xiao er kan shang jia shu ju	0
+小二看数据	xiao er kan shu ju	0
+消防系统	xiao fang xi tong	0
+消费 Proxy	xiao fei  Proxy	0
+消费贷合规	xiao fei dai he gui	0
+小红花	xiao hong hua	0
+小快	xiao kuai	0
+小铃铛	xiao ling dang	0
+小灵通	xiao ling tong	0
+小六	xiao liu	0
+小麻花	xiao ma hua	0
+销售付费	xiao shou fu fei	0
+消息号	xiao xi hao	0
+消息卡片搭建工具	xiao xi ka pian da jian gong ju	0
+消息中台	xiao xi zhong tai	0
+肖像	xiao xiang	0
+肖像权	xiao xiang quan	0
+小钥匙	xiao yao shi	0
+小邮局	xiao you ju	0
+校园招聘	xiao yuan zhao pin	0
+校招	xiao zhao	0
+校招新人3+1培养体系	xiao zhao xin ren 3+1 pei yang ti xi	0
+协商解除	xie shang jie chu	0
+协同过滤	xie tong guo lv	0
+协同过滤算法	xie tong guo lv suan fa	0
+携物	xie wu	0
+携物出门流程	xie wu chu men liu cheng	0
+协议保护	xie yi bao hu	0
+协议调度	xie yi diao du	0
+新产品上线评估	xin chan pin shang xian ping gu	0
+薪酬福利部	xin chou fu li bu	0
+薪酬小助手	xin chou xiao zhu shou	0
+新川	xin chuan	0
+新川职场	xin chuan zhi chang	0
+新回	xin hui	0
+新回活	xin hui huo	0
+心理援助	xin li yuan zhu	0
+心理咨询	xin li zi xun	0
+信息安全中心	xin xi an quan zhong xin	0
+信息服务合同	xin xi fu wu he tong	0
+信息服务协议	xin xi fu wu xie yi	0
+信息熵	xin xi shang	0
+信息网络传播视听节目许可证	xin xi wang luo chuan bo shi ting jie mu xu ke zheng	0
+信息与沟通	xin xi yu gou tong	0
+新线城市	xin xian cheng shi	0
+新增领用	xin zeng ling yong	0
+薪资	xin zi	0
+薪资查询	xin zi cha xun	0
+星辰	xing chen	0
+行动号召	xing dong hao zhao	0
+星盒	xing he	0
+星环	xing huan	0
+星环流程中心	xing huan liu cheng zhong xin	0
+星火计划	xing huo ji hua	0
+星聚	xing ju	0
+性能归因平台	xing neng gui yin ping tai	0
+性能实验室	xing neng shi yan shi	0
+星盘	xing pan	0
+兴趣召回	xing qu zhao hui	0
+星任务	xing ren wu	0
+星视频	xing shi pin	0
+行为分析	xing wei fen xi	0
+星云	xing yun	0
+星云AM	xing yun AM	0
+星云Automate	xing yun Automate	0
+星云榜	xing yun bang	0
+星云平台	xing yun ping tai	0
+行政处罚	xing zheng chu fa	0
+行政数据平台	xing zheng shu ju ping tai	0
+行政小当家	xing zheng xiao dang jia	0
+星直播	xing zhi bo	0
+休克疗法	xiu ke liao fa	0
+虚构原价	xu gou yuan jia	0
+虚假宣传	xu jia xuan chuan	0
+蓄冷罐	xu leng guan	0
+虚拟AZ	xu ni AZ	0
+虚拟PR	xu ni PR	0
+虚拟采购申请	xu ni cai gou shen qing	0
+虚拟化	xu ni hua	0
+虚拟货币	xu ni huo bi	0
+虚拟机	xu ni ji	0
+虚拟技术	xu ni ji shu	0
+虚拟局域网	xu ni ju yu wang	0
+虚拟专用网	xu ni zhuan yong wang	0
+虚拟组织	xu ni zu zhi	0
+续签	xu qian	0
+需求方平台	xu qiu fang ping tai	0
+需求文档	xu qiu wen dang	0
+徐同城	xu tong cheng	0
+徐五八	xu wu ba	0
+璇玑系统	xuan ji xi tong	0
+选品	xuan pin	0
+选品系统	xuan pin xi tong	0
+雪碧图	xue bi tu	0
+血缘	xue yuan	0
+寻源	xun yuan	0
+勋章	xun zhang	0
+询证函	xun zheng han	0
+压测隔离技术	ya ce ge li ji shu	0
+压测工具	ya ce gong ju	0
+压测平台	ya ce ping tai	0
+压测通道	ya ce tong dao	0
+亚马逊逆向工作法	ya ma xun ni xiang gong zuo fa	0
+演播室	yan bo shi	0
+演播厅	yan bo ting	0
+演播中心	yan bo zhong xin	0
+盐城娟里夫人	yan cheng juan li fu ren	0
+研发分支	yan fa fen zhi	0
+研发工程师	yan fa gong cheng shi	0
+研发工作流	yan fa gong zuo liu	0
+研发可观测	yan fa ke guan ce	0
+研发云	yan fa yun	0
+演练平台	yan lian ping tai	0
+烟台万达职场	yan tai wan da zhi chang	0
+严重违纪	yan zhong wei ji	0
+样本量检验	yang ben liang jian yan	0
+养老保险	yang lao bao xian	0
+样式中台	yang shi zhong tai	0
+摇一摇	yao yi yao	0
+要约	yao yue	0
+要约邀请	yao yue yao qing	0
+野草	ye cao	0
+野草主播	ye cao zhu bo	0
+业绩不达预期	ye ji bu da yu qi	0
+页面浏览量	ye mian liu lan liang	0
+页面停留时间	ye mian ting liu shi jian	0
+业务安全	ye wu an quan	0
+业务标准	ye wu biao zhun	0
+业务合作伙伴	ye wu he zuo huo ban	0
+业务健康度	ye wu jian kang du	0
+业务领域目录	ye wu ling yu mu lu	0
+业务目录分摊	ye wu mu lu fen tan	0
+异步转码	yi bu zhuan ma	0
+一裁终局制度	yi cai zhong ju zhi du	0
+异常评价	yi chang ping jia	0
+异常退出率	yi chang tui chu lv	0
+异常终止率	yi chang zhong zhi lv	0
+移动安全	yi dong an quan	0
+移动打印	yi dong da yin	0
+移动端组件平台	yi dong duan zu jian ping tai	0
+移动端组件信息平台	yi dong duan zu jian xin xi ping tai	0
+移动监测合作伙伴	yi dong jian ce he zuo huo ban	0
+移动应用加固	yi dong ying yong jia gu	0
+一个人也要活成一个春天	yi ge ren ye yao huo cheng yi ge chun tian	0
+一键降级	yi jian jiang ji	0
+一键扩缩容	yi jian kuo suo rong	0
+意见领袖	yi jian ling xiu	0
+一键切流	yi jian qie liu	0
+一键式音视频专项测试平台	yi jian shi yin shi pin zhuan xiang ce shi ping tai	0
+一类错误	yi lei cuo wu	0
+医疗保险	yi liao bao xian	0
+医疗补助费	yi liao bu zhu fei	0
+医疗期	yi liao qi	0
+一码多投	yi ma duo tou	0
+一起聊聊吧	yi qi liao liao ba	0
+移山	yi shan	0
+移山计划	yi shan ji hua	0
+一甜	yi tian	0
+一站式部署	yi zhan shi bu shu	0
+一站式机器学习平台	yi zhan shi ji qi xue xi ping tai	0
+一站式智能研发工作台	yi zhan shi zhi neng yan fa gong zuo tai	0
+银行授信	yin hang shou xin	0
+银行助贷	yin hang zhu dai	0
+隐患点	yin huan dian	0
+音视频编解码套件	yin shi pin bian jie ma tao jian	0
+音视频转码SDK	yin shi pin zhuan ma SDK	0
+音乐版权许可	yin yue ban quan xu ke	0
+音乐作品	yin yue zuo pin	0
+印章	yin zhang	0
+硬编码	ying bian ma	0
+婴儿潮世代	ying er chao shi dai	0
+婴儿潮一代	ying er chao yi dai	0
+应发工资	ying fa gong zi	0
+应急处置	ying ji chu zhi	0
+应急响应	ying ji xiang ying	0
+影流之主	ying liu zhi zhu	0
+应税收入	ying shui shou ru	0
+鹦鹉	ying wu	0
+营销工具	ying xiao gong ju	0
+营业性演出许可证	ying ye xing yan chu xu ke zheng	0
+营业性演出证	ying ye xing yan chu zheng	0
+营业执照	ying ye zhi zhao	0
+应用程序接口	ying yong cheng xu jie kou	0
+应用加固	ying yong jia gu	0
+yoda	yoda	0
+泳道	yong dao	0
+泳道环境	yong dao huan jing	0
+用工合规	yong gong he gui	0
+用工文件	yong gong wen jian	0
+用工协议	yong gong xie yi	0
+用户画像	yong hu hua xiang	0
+用户画像平台	yong hu hua xiang ping tai	0
+用户获取成本	yong hu huo qu cheng ben	0
+用户身份证明	yong hu shen fen zheng ming	0
+用户生成内容	yong hu sheng cheng nei rong	0
+用户数据报协议	yong hu shu ju bao xie yi	0
+用户体验部人才发展专栏	yong hu ti yan bu ren cai fa zhan zhuan lan	0
+用户体验调查表	yong hu ti yan diao cha biao	0
+用户体验设计	yong hu ti yan she ji	0
+用户体验天窗率	yong hu ti yan tian chuang lv	0
+用户体验指标	yong hu ti yan zhi biao	0
+用户推荐回查	yong hu tui jian hui cha	0
+用户推荐卡	yong hu tui jian ka	0
+用户行为数据分析	yong hu xing wei shu ju fen xi	0
+用户原声平台	yong hu yuan sheng ping tai	0
+用户运营成本	yong hu yun ying cheng ben	0
+用户姿态	yong hu zi tai	0
+用例评审	yong li ping shen	0
+用人单位	yong ren dan wei	0
+有点比	you dian bi	0
+优化千次展现出价	you hua qian ci zhan xian chu jia	0
+有奖销售	you jiang xiao shou	0
+又名贪婪法	you ming tan lan fa	0
+有向无环图	you xiang wu huan tu	0
+有效载荷	you xiao zai he	0
+优选交易	you xuan jiao yi	0
+预案管理平台	yu an guan li ping tai	0
+预案平台	yu an ping tai	0
+鱼叉攻击	yu cha gong ji	0
+育儿假	yu er jia	0
+预发环境	yu fa huan jing	0
+预估偏差	yu gu pian cha	0
+预计信用损失模型	yu ji xin yong sun shi mo xing	0
+域控	yu kong	0
+域控制器	yu kong zhi qi	0
+域名	yu ming	0
+域名健康度	yu ming jian kang du	0
+域名证书	yu ming zheng shu	0
+预算约束下自动出价	yu suan yue shu xia zi dong chu jia	0
+预装	yu zhuang	0
+远程办公	yuan cheng ban gong	0
+远程过程调用	yuan cheng guo cheng diao yong	0
+员工WiFi	yuan gong WiFi	0
+员工报销平台	yuan gong bao xiao ping tai	0
+员工净推荐值	yuan gong jing tui jian zhi	0
+员工卡补办	yuan gong ka bu ban	0
+员工手册	yuan gong shou ce	0
+员工心理援助计划	yuan gong xin li yuan zhu ji hua	0
+员工周年激励	yuan gong zhou nian ji li	0
+园区卡	yuan qu ka	0
+原生广告	yuan sheng guang gao	0
+原生鸿蒙操作系统	yuan sheng hong meng cao zuo xi tong	0
+原声平台	yuan sheng ping tai	0
+元数据	yuan shu ju	0
+元中心	yuan zhong xin	0
+原子账单	yuan zi zhang dan	0
+约稿合同	yue gao he tong	0
+月活	yue huo	0
+月活跃用户数	yue huo yue yong hu shu	0
+月有效投广客户数（Monthly Active Advertiser)	yue you xiao tou guang ke hu shu （Monthly Active Advertiser)	0
+云财务管理	yun cai wu guan li	0
+云成本管理	yun cheng ben guan li	0
+云存储平台	yun cun chu ping tai	0
+云打印	yun da yin	0
+云打印2.0	yun da yin 2.0	0
+云端集成研发服务	yun duan ji cheng yan fa fu wu	0
+云集	yun ji	0
+云集平台	yun ji ping tai	0
+云计算	yun ji suan	0
+云开发	yun kai fa	0
+云开发机	yun kai fa ji	0
+云桥	yun qiao	0
+云文档	yun wen dang	0
+云文档精选	yun wen dang jing xuan	0
+运营看数据	yun ying kan shu ju	0
+运营设计	yun ying she ji	0
+运营设计团队	yun ying she ji tuan dui	0
+运营设计中心	yun ying she ji zhong xin	0
+云原生成熟度	yun yuan sheng cheng shu du	0
+云舟	yun zhou	0
+云主机	yun zhu ji	0
+云主机平台	yun zhu ji ping tai	0
+yunzhou	yunzhou	0
+再次雇佣	zai ci gu yong	0
+在线Perf工具	zai xian Perf gong ju	0
+在线合同模版	zai xian he tong mo ban	0
+在线自动寻参	zai xian zi dong xun can	0
+在职证明	zai zhi zheng ming	0
+噪声抑制	zao sheng yi zhi	0
+增量表	zeng liang biao	0
+增长策略	zeng zhang ce lve	0
+增长黑客模型	zeng zhang hei ke mo xing	0
+增长资损防控平台	zeng zhang zi sun fang kong ping tai	0
+增值电信业务经营许可证	zeng zhi dian xin ye wu jing ying xu ke zheng	0
+站点可靠性工程师	zhan dian ke kao xing gong cheng shi	0
+战略合作	zhan lve he zuo	0
+战略合作协议	zhan lve he zuo xie yi	0
+战略招聘中心	zhan lve zhao pin zhong xin	0
+展示天窗率	zhan shi tian chuang lv	0
+章程	zhang cheng	0
+账号ID	zhang hao ID	0
+账户预算优化	zhang hu yu suan you hua	0
+长连接Mock	zhang lian jie Mock	0
+张量并行	zhang liang bing xing	0
+长尾词	zhang wei ci	0
+长尾关键词	zhang wei guan jian ci	0
+招标	zhao biao	0
+招财鸭	zhao cai ya	0
+召回	zhao hui	0
+招募任务/全民任务	zhao mu ren wu / quan min ren wu	0
+招聘	zhao pin	0
+肇山	zhao shan	0
+招商团长	zhao shang tuan zhang	0
+找我官方合作	zhao wo guan fang he zuo	0
+找我合作上聚星	zhao wo he zuo shang ju xing	0
+帧率	zhen lv	0
+正向保护	zheng xiang bao hu	0
+争议解决方式	zheng yi jie jue fang shi	0
+证照印章	zheng zhao yin zhang	0
+值班	zhi ban	0
+指标	zhi biao	0
+指标服务平台	zhi biao fu wu ping tai	0
+指标管理平台	zhi biao guan li ping tai	0
+指标取数	zhi biao qu shu	0
+直播间人气	zhi bo jian ren qi	0
+直播间营销	zhi bo jian ying xiao	0
+直播角	zhi bo jiao	0
+直播kbox	zhi bo kbox	0
+直播流量	zhi bo liu liang	0
+直播流量排查	zhi bo liu liang pai cha	0
+直播录制	zhi bo lu zhi	0
+直播预约卡	zhi bo yu yue ka	0
+直播云	zhi bo yun	0
+直播长连接	zhi bo zhang lian jie	0
+直播专属空间	zhi bo zhuan shu kong jian	0
+智策	zhi ce	0
+职场健康小屋	zhi chang jian kang xiao wu	0
+支出合同	zhi chu he tong	0
+支出类合同	zhi chu lei he tong	0
+支出类合同流程	zhi chu lei he tong liu cheng	0
+指定采购	zhi ding cai gou	0
+指定供应商	zhi ding gong ying shang	0
+支付 PCI	zhi fu  PCI	0
+支付服务平台	zhi fu fu wu ping tai	0
+直管组织	zhi guan zu zhi	0
+质慧	zhi hui	0
+智慧谷	zhi hui gu	0
+职级	zhi ji	0
+职级标准	zhi ji biao zhun	0
+直接内存访问	zhi jie nei cun fang wen	0
+制冷系统	zhi leng xi tong	0
+质量卡点	zhi liang ka dian	0
+智能可观测	zhi neng ke guan ce	0
+智能守卫	zhi neng shou wei	0
+智能体	zhi neng ti	0
+智能卫生间	zhi neng wei sheng jian	0
+智能向善	zhi neng xiang shan	0
+智能运维助手	zhi neng yun wei zhu shou	0
+制品库	zhi pin ku	0
+智审精灵	zhi shen jing ling	0
+知识产权	zhi shi chan quan	0
+智图	zhi tu	0
+智图平台	zhi tu ping tai	0
+职务成果	zhi wu cheng guo	0
+知心计划	zhi xin ji hua	0
+置信区间	zhi xin qu jian	0
+质押	zhi ya	0
+职业生产内容	zhi ye sheng chan nei rong	0
+质臻轻流	zhi zhen qing liu	0
+质臻影音	zhi zhen ying yin	0
+质臻直播	zhi zhen zhi bo	0
+众包	zhong bao	0
+众包兼职	zhong bao jian zhi	0
+众包审核平台	zhong bao shen he ping tai	0
+重采样	zhong cai yang	0
+种草快线	zhong cao kuai xian	0
+重分流	zhong fen liu	0
+中后台建站平台	zhong hou tai jian zhan ping tai	0
+中华人民共和国民法典	zhong hua ren min gong he guo min fa dian	0
+中华人民共和国社会保障卡	zhong hua ren min gong he guo she hui bao zhang ka	0
+中继数据	zhong ji shu ju	0
+中间件	zhong jian jian	0
+中介数据	zhong jie shu ju	0
+中压配电	zhong ya pei dian	0
+中央处理器	zhong yang chu li qi	0
+轴辐协议	zhou fu xie yi	0
+周活跃	zhou huo yue	0
+周年激励	zhou nian ji li	0
+周期稳投	zhou qi wen tou	0
+肘子	zhou zi	0
+主APP漏洞	zhu APP lou dong	0
+主R	zhu R	0
+主S	zhu S	0
+主播公会	zhu bo gong hui	0
+主播经纪公司	zhu bo jing ji gong si	0
+注册资本	zhu ce zi ben	0
+主动防御	zhu dong fang yu	0
+住房公积金	zhu fang gong ji jin	0
+主机部署	zhu ji bu shu	0
+主页装修	zhu ye zhuang xiu	0
+主站	zhu zhan	0
+著作权	zhu zuo quan	0
+抓手	zhua shou	0
+转化率	zhuan hua lv	0
+专扣	zhuan kou	0
+专利	zhuan li	0
+转码	zhuan ma	0
+转码工具	zhuan ma gong ju	0
+专卖店	zhuan mai dian	0
+转签	zhuan qian	0
+赚钱页管理平台	zhuan qian ye guan li ping tai	0
+专属医生	zhuan shu yi sheng	0
+专项附加扣除	zhuan xiang fu jia kou chu	0
+专业力	zhuan ye li	0
+专业生产内容	zhuan ye sheng chan nei rong	0
+专营店	zhuan ying dian	0
+转正	zhuan zheng	0
+着色器	zhuo se qi	0
+卓阳科技园	zhuo yang ke ji yuan	0
+资不抵债	zi bu di zhai	0
+自采	zi cai	0
+资产报修	zi chan bao xiu	0
+资产管理	zi chan guan li	0
+资产管理平台	zi chan guan li ping tai	0
+资产管治	zi chan guan zhi	0
+资产归还	zi chan gui huan	0
+资产回购	zi chan hui gou	0
+资产交接平台	zi chan jiao jie ping tai	0
+资产借用	zi chan jie yong	0
+资产领用	zi chan ling yong	0
+资产盘点	zi chan pan dian	0
+资产申请	zi chan shen qing	0
+资产退库	zi chan tui ku	0
+资产转移	zi chan zhuan yi	0
+自定义方法Mock	zi ding yi fang fa Mock	0
+自定义机器人	zi ding yi ji qi ren	0
+自动调参	zi dong diao can	0
+自动化度量	zi dong hua du liang	0
+自动化工作流	zi dong hua gong zuo liu	0
+自动化决策	zi dong hua jue ce	0
+自动化流程	zi dong hua liu cheng	0
+自动化运维	zi dong hua yun wei	0
+自动回写基线	zi dong hui xie ji xian	0
+自动语音识别	zi dong yu yin shi bie	0
+自动增益补偿	zi dong zeng yi bu chang	0
+字段名称为passToken	zi duan ming cheng wei passToken	0
+字段使用覆盖率检查工具	zi duan shi yong fu gai lv jian cha gong ju	0
+字库合规	zi ku he gui	0
+自然/付费流量	zi ran / fu fei liu liang	0
+自然流量	zi ran liu liang	0
+自然语言处理	zi ran yu yan chu li	0
+自然周	zi ran zhou	0
+姿态	zi tai	0
+姿态识别	zi tai shi bie	0
+字体合规	zi ti he gui	0
+自行采购	zi xing cai gou	0
+资源	zi yuan	0
+资源管理	zi yuan guan li	0
+资源管理平台	zi yuan guan li ping tai	0
+资源预热	zi yuan yu re	0
+资源运营	zi yuan yun ying	0
+资源运营平台	zi yuan yun ying ping tai	0
+资质	zi zhi	0
+综合计算工时工作制	zong he ji suan gong shi gong zuo zhi	0
+综合计算工时制	zong he ji suan gong shi zhi	0
+综合所得年度汇算	zong he suo de nian du hui suan	0
+总收益	zong shou yi	0
+总收⼊留存	zong shou ⼊ liu cun	0
+总拥有成本	zong yong you cheng ben	0
+zoomers	zoomers	0
+租房	zu fang	0
+租房圈	zu fang quan	0
+组合拳	zu he quan	0
+族和通道	zu he tong dao	0
+组间对比	zu jian dui bi	0
+组件平台	zu jian ping tai	0
+组件云	zu jian yun	0
+组件云平台	zu jian yun ping tai	0
+组织发展部	zu zhi fa zhan bu	0
+组织能力调研	zu zhi neng li diao yan	0
+钻石签约	zuan shi qian yue	0
+钻石主播	zuan shi zhu bo	0
+最大转化	zui da zhuan hua	0
+最低工资	zui di gong zi	0
+最高额担保	zui gao e dan bao	0
+最后期限	zui hou qi xian	0
+最简可行产品	zui jian ke xing chan pin	0
+最小可检测效应	zui xiao ke jian ce xiao ying	0
+做功	zuo gong	0
+作品推荐回查	zuo pin tui jian hui cha	0
+作者类目	zuo zhe lei mu	0
+π 数字员工	π  shu zi yuan gong	0
+⽉经常性收⼊	⽉ jing chang xing shou ⼊	0

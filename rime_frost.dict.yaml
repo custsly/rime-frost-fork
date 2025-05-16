@@ -37,6 +37,8 @@ import_tables:
   - cn_dicts_cell/name
   # 搜狗个人词库
   - cn_dicts/pers-sougou
+  # 快手词库
+  - cn_dicts/kwai
 ...
 
 # 按需启用：
